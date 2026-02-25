@@ -1,4 +1,4 @@
-return{
+{
     "bear": {
         "value": 0,
         "apiRarity": "Rare",
@@ -19,22 +19,22 @@ return{
         "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "bunnnny": {
+    "kitty": {
         "value": 0,
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "shiny bunnnny": {
+    "shiny kitty": {
         "value": 0,
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "shiny xl bunnnny": {
+    "shiny xl kitty": {
         "value": 0,
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "xl bunnnny": {
+    "xl kitty": {
         "value": 0,
         "apiRarity": "Common",
         "demand": "Medium"
@@ -59,26 +59,6 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "kitty": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny kitty": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl kitty": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl kitty": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
     "mouse": {
         "value": 0,
         "apiRarity": "Common",
@@ -95,6 +75,26 @@ return{
         "demand": "Medium"
     },
     "xl mouse": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "bunnnny": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny bunnnny": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl bunnnny": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl bunnnny": {
         "value": 0,
         "apiRarity": "Common",
         "demand": "Medium"
@@ -159,26 +159,6 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "polar bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny polar bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl polar bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl polar bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
     "ice kitty": {
         "value": 0,
         "apiRarity": "Common",
@@ -199,24 +179,44 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "ice wolf": {
+    "polar bear": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "shiny ice wolf": {
+    "shiny polar bear": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "shiny xl ice wolf": {
+    "shiny xl polar bear": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "xl ice wolf": {
+    "xl polar bear": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "piggy": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny piggy": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny xl piggy": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "xl piggy": {
+        "value": 0,
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "deer": {
@@ -239,24 +239,24 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "piggy": {
+    "ice wolf": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Unique",
         "demand": "Medium"
     },
-    "shiny piggy": {
+    "shiny ice wolf": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Unique",
         "demand": "Medium"
     },
-    "shiny xl piggy": {
+    "shiny xl ice wolf": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Unique",
         "demand": "Medium"
     },
-    "xl piggy": {
+    "xl ice wolf": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Unique",
         "demand": "Medium"
     },
     "magma deer": {
@@ -299,6 +299,26 @@ return{
         "apiRarity": "Epic",
         "demand": "Medium"
     },
+    "dinosaur": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny dinosaur": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl dinosaur": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl dinosaur": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
     "golem": {
         "value": 0,
         "apiRarity": "Common",
@@ -339,46 +359,6 @@ return{
         "apiRarity": "Unique",
         "demand": "Medium"
     },
-    "dinosaur": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny dinosaur": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl dinosaur": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl dinosaur": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "dark dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny dark dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny xl dark dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "xl dark dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
     "dragon": {
         "value": 0,
         "apiRarity": "Rare",
@@ -399,44 +379,24 @@ return{
         "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "emerald golem": {
+    "dark dragon": {
         "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "mythic emerald golem": {
-        "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "mythic xl emerald golem": {
+    "shiny dark dragon": {
         "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "shiny emerald golem": {
+    "shiny xl dark dragon": {
         "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "shiny mythic emerald golem": {
-        "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "shiny mythic xl emerald golem": {
+    "xl dark dragon": {
         "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl emerald golem": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl emerald golem": {
-        "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "green hydra": {
@@ -475,6 +435,46 @@ return{
         "demand": "Medium"
     },
     "xl green hydra": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "emerald golem": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "mythic emerald golem": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl emerald golem": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny emerald golem": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "shiny mythic emerald golem": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl emerald golem": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl emerald golem": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl emerald golem": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -519,6 +519,26 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "magma doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny magma doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl magma doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl magma doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
     "magma fox": {
         "value": 0,
         "apiRarity": "Unique",
@@ -539,24 +559,44 @@ return{
         "apiRarity": "Unique",
         "demand": "Medium"
     },
-    "magma doggy": {
+    "ice deer": {
         "value": 0,
-        "apiRarity": "Common",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "shiny magma doggy": {
+    "shiny ice deer": {
         "value": 0,
-        "apiRarity": "Common",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "shiny xl magma doggy": {
+    "shiny xl ice deer": {
         "value": 0,
-        "apiRarity": "Common",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "xl magma doggy": {
+    "xl ice deer": {
         "value": 0,
-        "apiRarity": "Common",
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "magma bear": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny magma bear": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny xl magma bear": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "xl magma bear": {
+        "value": 0,
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "unicorn": {
@@ -597,46 +637,6 @@ return{
     "xl unicorn": {
         "value": 0,
         "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "magma bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny magma bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl magma bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl magma bear": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "ice deer": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny ice deer": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl ice deer": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl ice deer": {
-        "value": 0,
-        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "inferno dragon": {
@@ -739,46 +739,6 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "lunar fox": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny lunar fox": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl lunar fox": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl lunar fox": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "lunarcorn": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny lunarcorn": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny xl lunarcorn": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "xl lunarcorn": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
     "lunar serpent": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -817,6 +777,46 @@ return{
     "xl lunar serpent": {
         "value": 0,
         "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "lunar fox": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny lunar fox": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny xl lunar fox": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "xl lunar fox": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "lunarcorn": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny lunarcorn": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny xl lunarcorn": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "xl lunarcorn": {
+        "value": 0,
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "cave bat": {
@@ -859,26 +859,6 @@ return{
         "apiRarity": "Unique",
         "demand": "Medium"
     },
-    "angel": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny angel": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl angel": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl angel": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
     "emerald bat": {
         "value": 0,
         "apiRarity": "Epic",
@@ -897,6 +877,26 @@ return{
     "xl emerald bat": {
         "value": 0,
         "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "angel": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny angel": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny xl angel": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "xl angel": {
+        "value": 0,
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "flying pig": {
@@ -1099,6 +1099,26 @@ return{
         "apiRarity": "Rare",
         "demand": "Medium"
     },
+    "void bat": {
+        "value": 0,
+        "apiRarity": "Unique",
+        "demand": "Medium"
+    },
+    "shiny void bat": {
+        "value": 0,
+        "apiRarity": "Unique",
+        "demand": "Medium"
+    },
+    "shiny xl void bat": {
+        "value": 0,
+        "apiRarity": "Unique",
+        "demand": "Medium"
+    },
+    "xl void bat": {
+        "value": 0,
+        "apiRarity": "Unique",
+        "demand": "Medium"
+    },
     "void kitty": {
         "value": 0,
         "apiRarity": "Common",
@@ -1139,24 +1159,24 @@ return{
         "apiRarity": "Unique",
         "demand": "Medium"
     },
-    "void bat": {
+    "hell bat": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "shiny void bat": {
+    "shiny hell bat": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "shiny xl void bat": {
+    "shiny xl hell bat": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "xl void bat": {
+    "xl hell bat": {
         "value": 0,
-        "apiRarity": "Unique",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "demon doggy": {
@@ -1177,26 +1197,6 @@ return{
     "xl demon doggy": {
         "value": 0,
         "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "hell bat": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny hell bat": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny xl hell bat": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "xl hell bat": {
-        "value": 0,
-        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "night crawler": {
@@ -1919,6 +1919,46 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "mythic abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "mythic xl abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "shiny mythic abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl abyssal dragon": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
     "moonburst": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -1975,46 +2015,6 @@ return{
         "demand": "Medium"
     },
     "xl dusk": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "abyssal dragon": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "mythic abyssal dragon": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "mythic xl abyssal dragon": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny abyssal dragon": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "shiny mythic abyssal dragon": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl abyssal dragon": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl abyssal dragon": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl abyssal dragon": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -2119,26 +2119,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "beta tv": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "High"
-    },
-    "shiny beta tv": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "High"
-    },
-    "shiny xl beta tv": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl beta tv": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "dowodle": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -2155,6 +2135,26 @@ return{
         "demand": "Medium"
     },
     "xl dowodle": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "beta tv": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "High"
+    },
+    "shiny beta tv": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "High"
+    },
+    "shiny xl beta tv": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl beta tv": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -3059,46 +3059,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "High"
-    },
-    "mythic patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "High"
-    },
-    "mythic xl patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl patronus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "midas": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -3135,6 +3095,46 @@ return{
         "demand": "Medium"
     },
     "xl midas": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "patronus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "High"
+    },
+    "mythic patronus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "High"
+    },
+    "mythic xl patronus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic patronus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl patronus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny patronus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl patronus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl patronus": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -3279,6 +3279,46 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "shiny mythic godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "shiny mythic xl godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "bunny": {
         "value": 0,
         "apiRarity": "Unique",
@@ -3335,46 +3375,6 @@ return{
         "demand": "Medium"
     },
     "xl dementor": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "shiny mythic godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "shiny mythic xl godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl godly gem": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -3939,46 +3939,6 @@ return{
         "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "shiny xl royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl royal trophy": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "elite soul": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -4017,6 +3977,46 @@ return{
     "xl elite soul": {
         "value": 0,
         "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "shiny xl royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl royal trophy": {
+        "value": 0,
+        "apiRarity": "Secret",
         "demand": "Medium"
     },
     "golden golem": {
@@ -4639,46 +4639,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "mythic moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "shiny mythic moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl moon deer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "dice split": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -4719,42 +4679,42 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "moonlight": {
+    "moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Low"
     },
-    "mythic moonlight": {
+    "mythic moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "mythic xl moonlight": {
+    "mythic xl moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "shiny moonlight": {
+    "shiny moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Low"
     },
-    "shiny mythic moonlight": {
+    "shiny mythic moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "shiny mythic xl moonlight": {
+    "shiny mythic xl moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "shiny xl moonlight": {
+    "shiny xl moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "xl moonlight": {
+    "xl moon deer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -4795,6 +4755,46 @@ return{
         "demand": "Medium"
     },
     "xl nebula": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "moonlight": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "mythic moonlight": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl moonlight": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny moonlight": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "shiny mythic moonlight": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl moonlight": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl moonlight": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl moonlight": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -5619,6 +5619,26 @@ return{
         "apiRarity": "Rare",
         "demand": "Medium"
     },
+    "cute deer": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny cute deer": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl cute deer": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl cute deer": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
     "bongo kitty": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -5657,26 +5677,6 @@ return{
     "xl bongo kitty": {
         "value": 0,
         "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "cute deer": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny cute deer": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl cute deer": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl cute deer": {
-        "value": 0,
-        "apiRarity": "Common",
         "demand": "Medium"
     },
     "the sun": {
@@ -6239,46 +6239,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl equalizer": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "neon wyvern": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -6315,6 +6275,46 @@ return{
         "demand": "Medium"
     },
     "xl neon wyvern": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "equalizer": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic equalizer": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl equalizer": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny equalizer": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic equalizer": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl equalizer": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl equalizer": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl equalizer": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -6700,7 +6700,7 @@ return{
         "demand": "Medium"
     },
     "mint sundae champion": {
-        "value": 8000,
+        "value": 8500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -6715,7 +6715,7 @@ return{
         "demand": "Medium"
     },
     "shiny mint sundae champion": {
-        "value": 32500,
+        "value": 37500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -6765,7 +6765,7 @@ return{
         "demand": "High"
     },
     "mythic everblaze": {
-        "value": 975000,
+        "value": 1050000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -6775,7 +6775,7 @@ return{
         "demand": "Medium"
     },
     "shiny everblaze": {
-        "value": 200000,
+        "value": 225000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7239,8 +7239,48 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "chocolate sundae champion": {
+        "value": 8500,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic chocolate sundae champion": {
+        "value": 85000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic xl chocolate sundae champion": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny chocolate sundae champion": {
+        "value": 37500,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "shiny mythic chocolate sundae champion": {
+        "value": 325000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl chocolate sundae champion": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl chocolate sundae champion": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl chocolate sundae champion": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "strawberry sundae champion": {
-        "value": 8000,
+        "value": 8500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7265,7 +7305,7 @@ return{
         "demand": "Medium"
     },
     "shiny strawberry sundae champion": {
-        "value": 32500,
+        "value": 37500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7279,48 +7319,8 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "chocolate sundae champion": {
-        "value": 8000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic chocolate sundae champion": {
-        "value": 85000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic xl chocolate sundae champion": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny chocolate sundae champion": {
-        "value": 32500,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "shiny mythic chocolate sundae champion": {
-        "value": 325000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl chocolate sundae champion": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl chocolate sundae champion": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl chocolate sundae champion": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "vanilla sundae champion": {
-        "value": 8000,
+        "value": 8500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7345,7 +7345,7 @@ return{
         "demand": "Medium"
     },
     "shiny vanilla sundae champion": {
-        "value": 32500,
+        "value": 37500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7679,6 +7679,26 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "pirate kitty": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny pirate kitty": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl pirate kitty": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl pirate kitty": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
     "kraken": {
         "value": 17500,
         "apiRarity": "Secret",
@@ -7717,26 +7737,6 @@ return{
     "xl kraken": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "pirate kitty": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny pirate kitty": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl pirate kitty": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl pirate kitty": {
-        "value": 0,
-        "apiRarity": "Common",
         "demand": "Medium"
     },
     "strawhat dragon": {
@@ -7915,7 +7915,7 @@ return{
         "demand": "Medium"
     },
     "shiny air basilisk": {
-        "value": 425000,
+        "value": 450000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7955,7 +7955,7 @@ return{
         "demand": "Medium"
     },
     "shiny electric basilisk": {
-        "value": 500000,
+        "value": 525000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7995,7 +7995,7 @@ return{
         "demand": "Medium"
     },
     "shiny fire basilisk": {
-        "value": 450000,
+        "value": 475000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8035,7 +8035,7 @@ return{
         "demand": "Medium"
     },
     "shiny ice basilisk": {
-        "value": 475000,
+        "value": 500000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8100,7 +8100,7 @@ return{
         "demand": "Medium"
     },
     "immortal one": {
-        "value": 275000,
+        "value": 300000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8115,7 +8115,7 @@ return{
         "demand": "Medium"
     },
     "shiny immortal one": {
-        "value": 750000,
+        "value": 800000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -8359,6 +8359,26 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "light doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny light doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl light doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl light doggy": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
     "shimmering shard": {
         "value": 20000,
         "apiRarity": "Secret",
@@ -8397,26 +8417,6 @@ return{
     "xl shimmering shard": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "light doggy": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny light doggy": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl light doggy": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl light doggy": {
-        "value": 0,
-        "apiRarity": "Common",
         "demand": "Medium"
     },
     "dowominus": {
@@ -8519,6 +8519,26 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
+    "light orb": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny light orb": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny xl light orb": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "xl light orb": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
     "light cube": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -8557,26 +8577,6 @@ return{
     "xl light cube": {
         "value": 0,
         "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "light orb": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny light orb": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl light orb": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl light orb": {
-        "value": 0,
-        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "radiant elemental": {
@@ -8720,7 +8720,7 @@ return{
         "demand": "Medium"
     },
     "void crystal dragon": {
-        "value": 14000,
+        "value": 15000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8745,7 +8745,7 @@ return{
         "demand": "Medium"
     },
     "shiny void crystal dragon": {
-        "value": 65000,
+        "value": 70000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8839,46 +8839,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl dream catcher": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "void scorpion": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -8915,6 +8875,46 @@ return{
         "demand": "Medium"
     },
     "xl void scorpion": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "dream catcher": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic dream catcher": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl dream catcher": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny dream catcher": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic dream catcher": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl dream catcher": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl dream catcher": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl dream catcher": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -9100,12 +9100,12 @@ return{
         "demand": "Medium"
     },
     "true titan": {
-        "value": 325000,
+        "value": 350000,
         "apiRarity": "Secret",
         "demand": "High"
     },
     "mythic true titan": {
-        "value": 8750000,
+        "value": 9000000,
         "apiRarity": "Secret",
         "demand": "Very high"
     },
@@ -9140,7 +9140,7 @@ return{
         "demand": "Medium"
     },
     "radiant crystal dragon": {
-        "value": 14000,
+        "value": 15000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -9165,7 +9165,7 @@ return{
         "demand": "Medium"
     },
     "shiny radiant crystal dragon": {
-        "value": 65000,
+        "value": 70000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -9359,46 +9359,6 @@ return{
         "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "bruh god": {
-        "value": 700000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic bruh god": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl bruh god": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny bruh god": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic bruh god": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl bruh god": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl bruh god": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl bruh god": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "celestial bruh": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -9479,6 +9439,46 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "bruh god": {
+        "value": 700000,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic bruh god": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl bruh god": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny bruh god": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic bruh god": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl bruh god": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl bruh god": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl bruh god": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "dogcat": {
         "value": 850000,
         "apiRarity": "Secret",
@@ -9520,7 +9520,7 @@ return{
         "demand": "Medium"
     },
     "pyramidium": {
-        "value": 325000,
+        "value": 350000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -9755,7 +9755,7 @@ return{
         "demand": "Medium"
     },
     "shiny liberty": {
-        "value": 52500,
+        "value": 55000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -10359,46 +10359,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl geometric dominus": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "patriotic soul": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -10435,6 +10395,46 @@ return{
         "demand": "Medium"
     },
     "xl patriotic soul": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "geometric dominus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic geometric dominus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl geometric dominus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny geometric dominus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic geometric dominus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl geometric dominus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl geometric dominus": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl geometric dominus": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -10535,7 +10535,7 @@ return{
         "demand": "Medium"
     },
     "shiny dark guardian": {
-        "value": 350000,
+        "value": 400000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -10719,28 +10719,8 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "light lord": {
-        "value": 750,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny light lord": {
-        "value": 6000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny xl light lord": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl light lord": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "giant robot": {
-        "value": 5000000,
+        "value": 5250000,
         "apiRarity": "Secret",
         "demand": "Very high"
     },
@@ -10775,6 +10755,26 @@ return{
         "demand": "Medium"
     },
     "xl giant robot": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "light lord": {
+        "value": 750,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny light lord": {
+        "value": 6000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny xl light lord": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl light lord": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -10840,7 +10840,7 @@ return{
         "demand": "Medium"
     },
     "super trophy": {
-        "value": 6500,
+        "value": 7000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -10865,7 +10865,7 @@ return{
         "demand": "Medium"
     },
     "shiny super trophy": {
-        "value": 27500,
+        "value": 30000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -10940,7 +10940,7 @@ return{
         "demand": "Medium"
     },
     "diamond overlord": {
-        "value": 1500,
+        "value": 1750,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -10955,7 +10955,7 @@ return{
         "demand": "Medium"
     },
     "shiny diamond overlord": {
-        "value": 7500,
+        "value": 9000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -11020,7 +11020,7 @@ return{
         "demand": "Medium"
     },
     "fallen angel": {
-        "value": 7000,
+        "value": 7500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11285,7 +11285,7 @@ return{
         "demand": "High"
     },
     "mythic destiny": {
-        "value": 1850000,
+        "value": 2000000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11465,7 +11465,7 @@ return{
         "demand": "High"
     },
     "mythic owolord": {
-        "value": 8000000,
+        "value": 8250000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11485,7 +11485,7 @@ return{
         "demand": "Medium"
     },
     "shiny owolord": {
-        "value": 1100000,
+        "value": 1250000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11700,7 +11700,7 @@ return{
         "demand": "Medium"
     },
     "queen bee": {
-        "value": 9000,
+        "value": 10000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11725,7 +11725,7 @@ return{
         "demand": "Medium"
     },
     "shiny queen bee": {
-        "value": 35000,
+        "value": 40000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11859,46 +11859,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl amalgamation": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "sparkly lemonade": {
         "value": 50000,
         "apiRarity": "Secret",
@@ -11939,8 +11899,48 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
+    "amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl amalgamation": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
     "false prophet": {
-        "value": 27500,
+        "value": 30000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11977,26 +11977,6 @@ return{
     "xl false prophet": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "blaze": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny blaze": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl blaze": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl blaze": {
-        "value": 0,
-        "apiRarity": "Legendary",
         "demand": "Medium"
     },
     "cherry snowcone": {
@@ -12037,6 +12017,26 @@ return{
     "xl cherry snowcone": {
         "value": 0,
         "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "blaze": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny blaze": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl blaze": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl blaze": {
+        "value": 0,
+        "apiRarity": "Legendary",
         "demand": "Medium"
     },
     "sea serpent": {
@@ -12200,7 +12200,7 @@ return{
         "demand": "Medium"
     },
     "jelly overlord": {
-        "value": 5000,
+        "value": 6000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -12215,7 +12215,7 @@ return{
         "demand": "Medium"
     },
     "shiny jelly overlord": {
-        "value": 17500,
+        "value": 20000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -12279,44 +12279,24 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "tigers eye": {
+    "golem bunny": {
         "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "mythic tigers eye": {
+    "shiny golem bunny": {
         "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "mythic xl tigers eye": {
+    "shiny xl golem bunny": {
         "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
-    "shiny mythic tigers eye": {
+    "xl golem bunny": {
         "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "shiny mythic xl tigers eye": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny tigers eye": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl tigers eye": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl tigers eye": {
-        "value": 0,
-        "apiRarity": "Legendary",
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "clown emoji": {
@@ -12337,26 +12317,6 @@ return{
     "xl clown emoji": {
         "value": 0,
         "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "golem bunny": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny golem bunny": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl golem bunny": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl golem bunny": {
-        "value": 0,
-        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "blue raspberry snowcone": {
@@ -12435,6 +12395,46 @@ return{
         "demand": "Medium"
     },
     "xl the shocklord": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "tigers eye": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic tigers eye": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl tigers eye": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic tigers eye": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "shiny mythic xl tigers eye": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny tigers eye": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl tigers eye": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl tigers eye": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -13139,26 +13139,6 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "lava golem": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny lava golem": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl lava golem": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl lava golem": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
     "night dweller": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -13197,6 +13177,26 @@ return{
     "xl night dweller": {
         "value": 0,
         "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "lava golem": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny lava golem": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl lava golem": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl lava golem": {
+        "value": 0,
+        "apiRarity": "Common",
         "demand": "Medium"
     },
     "ice bear": {
@@ -13540,7 +13540,7 @@ return{
         "demand": "Medium"
     },
     "earth champion": {
-        "value": 1250,
+        "value": 2000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13555,7 +13555,7 @@ return{
         "demand": "Medium"
     },
     "shiny earth champion": {
-        "value": 7000,
+        "value": 10000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13580,7 +13580,7 @@ return{
         "demand": "Medium"
     },
     "dark champion": {
-        "value": 1250,
+        "value": 2000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13595,7 +13595,7 @@ return{
         "demand": "Medium"
     },
     "shiny dark champion": {
-        "value": 7000,
+        "value": 10000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13620,7 +13620,7 @@ return{
         "demand": "Medium"
     },
     "sky champion": {
-        "value": 1250,
+        "value": 2000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13645,7 +13645,7 @@ return{
         "demand": "Medium"
     },
     "shiny sky champion": {
-        "value": 7000,
+        "value": 10000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13660,7 +13660,7 @@ return{
         "demand": "Medium"
     },
     "fire champion": {
-        "value": 1250,
+        "value": 2000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13675,7 +13675,7 @@ return{
         "demand": "Medium"
     },
     "shiny fire champion": {
-        "value": 7000,
+        "value": 10000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -13715,7 +13715,7 @@ return{
         "demand": "Medium"
     },
     "shiny gryphon": {
-        "value": 90000,
+        "value": 100000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -13899,6 +13899,26 @@ return{
         "apiRarity": "Rare",
         "demand": "Medium"
     },
+    "shark": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny shark": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl shark": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl shark": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
     "tidal god": {
         "value": 1200,
         "apiRarity": "Secret",
@@ -13937,26 +13957,6 @@ return{
     "xl tidal god": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shark": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny shark": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl shark": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl shark": {
-        "value": 0,
-        "apiRarity": "Common",
         "demand": "Medium"
     },
     "dark jellyfish": {
@@ -14119,46 +14119,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Low"
-    },
-    "shiny mythic xl void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl void eclipse": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "pond queen": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -14195,6 +14155,46 @@ return{
         "demand": "Medium"
     },
     "xl pond queen": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "void eclipse": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic void eclipse": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl void eclipse": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic void eclipse": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Low"
+    },
+    "shiny mythic xl void eclipse": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny void eclipse": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl void eclipse": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl void eclipse": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -14295,7 +14295,7 @@ return{
         "demand": "Medium"
     },
     "shiny danger of the abyss": {
-        "value": 475000,
+        "value": 500000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -14325,7 +14325,7 @@ return{
         "demand": "Medium"
     },
     "mythic prisma": {
-        "value": 1700000,
+        "value": 1850000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -14347,7 +14347,7 @@ return{
     "shiny prisma": {
         "value": 65000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "shiny xl prisma": {
         "value": 0,
@@ -14357,6 +14357,26 @@ return{
     "xl prisma": {
         "value": 0,
         "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "disturbed dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny disturbed dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny xl disturbed dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "xl disturbed dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "shadow hunter": {
@@ -14399,46 +14419,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "disturbed dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny disturbed dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny xl disturbed dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "xl disturbed dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "disturbed unicorn": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny disturbed unicorn": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "shiny xl disturbed unicorn": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
-    "xl disturbed unicorn": {
-        "value": 0,
-        "apiRarity": "Rare",
-        "demand": "Medium"
-    },
     "duality": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -14477,6 +14457,26 @@ return{
     "xl duality": {
         "value": 0,
         "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "disturbed unicorn": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny disturbed unicorn": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny xl disturbed unicorn": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "xl disturbed unicorn": {
+        "value": 0,
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "eternity": {
@@ -14725,7 +14725,7 @@ return{
         "demand": "Medium"
     },
     "shiny parasol paladin": {
-        "value": 1250000,
+        "value": 1400000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -14825,7 +14825,7 @@ return{
         "demand": "Medium"
     },
     "mythic ethereal one": {
-        "value": 8250000,
+        "value": 8750000,
         "apiRarity": "Secret",
         "demand": "Very high"
     },
@@ -15045,7 +15045,7 @@ return{
         "demand": "High"
     },
     "mythic deception": {
-        "value": 2750000,
+        "value": 3000000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -15385,7 +15385,7 @@ return{
         "demand": "Medium"
     },
     "shiny shadow leviathan": {
-        "value": 900000,
+        "value": 950000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -15395,6 +15395,46 @@ return{
         "demand": "Medium"
     },
     "xl shadow leviathan": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "diamond ring": {
+        "value": 2500,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic diamond ring": {
+        "value": 60000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic xl diamond ring": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny diamond ring": {
+        "value": 10000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic diamond ring": {
+        "value": 200000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl diamond ring": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl diamond ring": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl diamond ring": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -15439,46 +15479,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "diamond ring": {
-        "value": 2500,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic diamond ring": {
-        "value": 60000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic xl diamond ring": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny diamond ring": {
-        "value": 10000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic diamond ring": {
-        "value": 200000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl diamond ring": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl diamond ring": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl diamond ring": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "demonlord": {
         "value": 500,
         "apiRarity": "Secret",
@@ -15495,7 +15495,7 @@ return{
         "demand": "Medium"
     },
     "shiny demonlord": {
-        "value": 2500,
+        "value": 3000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -15705,7 +15705,7 @@ return{
         "demand": "Medium"
     },
     "shiny snake eyes": {
-        "value": 105000,
+        "value": 100000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -15720,7 +15720,7 @@ return{
         "demand": "Medium"
     },
     "illumination": {
-        "value": 8000,
+        "value": 9000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -15737,7 +15737,7 @@ return{
     "shiny illumination": {
         "value": 50000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "High"
     },
     "shiny mythic illumination": {
         "value": 625000,
@@ -15845,7 +15845,7 @@ return{
         "demand": "High"
     },
     "mythic the missing ones": {
-        "value": 6000000,
+        "value": 6500000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -15865,7 +15865,7 @@ return{
         "demand": "Medium"
     },
     "shiny the missing ones": {
-        "value": 240000,
+        "value": 260000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -16099,6 +16099,26 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
+    "mysterious bloom": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mysterious bloom": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl mysterious bloom": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl mysterious bloom": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
     "starry moth": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -16159,33 +16179,13 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "mysterious bloom": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mysterious bloom": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl mysterious bloom": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl mysterious bloom": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "bloomshifter": {
         "value": 200000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
     "mythic bloomshifter": {
-        "value": 3500000,
+        "value": 3750000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -16239,46 +16239,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl moonchanter": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "queen overlord": {
         "value": 2500,
         "apiRarity": "Secret",
@@ -16317,6 +16277,46 @@ return{
     "xl queen overlord": {
         "value": 0,
         "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl moonchanter": {
+        "value": 0,
+        "apiRarity": "Legendary",
         "demand": "Medium"
     },
     "stellar entity": {
@@ -16365,7 +16365,7 @@ return{
         "demand": "Medium"
     },
     "shiny soul heart": {
-        "value": 120000,
+        "value": 140000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -16725,7 +16725,7 @@ return{
         "demand": "Medium"
     },
     "mythic trophy": {
-        "value": 8000000,
+        "value": 8250000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -17979,26 +17979,6 @@ return{
         "apiRarity": "Common",
         "demand": "Medium"
     },
-    "nert dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny nert dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny xl nert dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "xl nert dragon": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
     "sylently plushie": {
         "value": 1250,
         "apiRarity": "Secret",
@@ -18037,6 +18017,26 @@ return{
     "xl sylently plushie": {
         "value": 0,
         "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "nert dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny nert dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny xl nert dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "xl nert dragon": {
+        "value": 0,
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "autumn paragon": {
@@ -18279,26 +18279,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "hallow candy": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny hallow candy": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl hallow candy": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl hallow candy": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "isaac rainbow shock": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -18315,6 +18295,26 @@ return{
         "demand": "Medium"
     },
     "xl isaac rainbow shock": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "hallow candy": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny hallow candy": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl hallow candy": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl hallow candy": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -18780,7 +18780,7 @@ return{
         "demand": "Medium"
     },
     "aureate koi": {
-        "value": 3650000,
+        "value": 3800000,
         "apiRarity": "Secret",
         "demand": "Very high"
     },
@@ -18835,7 +18835,7 @@ return{
         "demand": "Medium"
     },
     "shiny frost sentinel": {
-        "value": 475000,
+        "value": 500000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -18899,6 +18899,26 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
+    "autumn leaf": {
+        "value": 10000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny autumn leaf": {
+        "value": 80000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny xl autumn leaf": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl autumn leaf": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "test tube": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -18937,26 +18957,6 @@ return{
     "xl test tube": {
         "value": 0,
         "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "autumn leaf": {
-        "value": 10000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny autumn leaf": {
-        "value": 80000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny xl autumn leaf": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl autumn leaf": {
-        "value": 0,
-        "apiRarity": "Secret",
         "demand": "Medium"
     },
     "demon knight": {
@@ -18999,6 +18999,26 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "hollow reflection": {
+        "value": 5000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny hollow reflection": {
+        "value": 40000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny xl hollow reflection": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl hollow reflection": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "fox o wisp": {
         "value": 1250,
         "apiRarity": "Secret",
@@ -19035,26 +19055,6 @@ return{
         "demand": "Medium"
     },
     "xl fox o wisp": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "hollow reflection": {
-        "value": 5000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny hollow reflection": {
-        "value": 40000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny xl hollow reflection": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl hollow reflection": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -19267,7 +19267,7 @@ return{
     "shiny nightmare guardian": {
         "value": 104000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny xl nightmare guardian": {
         "value": 0,
@@ -19685,7 +19685,7 @@ return{
         "demand": "High"
     },
     "mythic angelic ghost spirit": {
-        "value": 1750000,
+        "value": 1850000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -19725,7 +19725,7 @@ return{
         "demand": "High"
     },
     "mythic demonic ghost spirit": {
-        "value": 1750000,
+        "value": 1850000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -20825,7 +20825,7 @@ return{
         "demand": "Medium"
     },
     "shiny og sinister lord": {
-        "value": 165000,
+        "value": 180000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -21000,7 +21000,7 @@ return{
         "demand": "Medium"
     },
     "radiance": {
-        "value": 3600000,
+        "value": 3750000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -21500,7 +21500,7 @@ return{
         "demand": "Medium"
     },
     "og radiance": {
-        "value": 250000,
+        "value": 265000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -21545,7 +21545,7 @@ return{
         "demand": "High"
     },
     "mythic axolotl army": {
-        "value": 250000,
+        "value": 275000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -21659,6 +21659,26 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
+    "vip rumblecon doggy": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny vip rumblecon doggy": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl vip rumblecon doggy": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl vip rumblecon doggy": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
     "harmonic harp": {
         "value": 60000,
         "apiRarity": "Secret",
@@ -21697,26 +21717,6 @@ return{
     "xl harmonic harp": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "vip rumblecon doggy": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny vip rumblecon doggy": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl vip rumblecon doggy": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl vip rumblecon doggy": {
-        "value": 0,
-        "apiRarity": "Legendary",
         "demand": "Medium"
     },
     "rumblecon doggy": {
@@ -22040,9 +22040,9 @@ return{
         "demand": "Low"
     },
     "shiny mythic almighty hexarium": {
-        "value": 0,
+        "value": 500000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny mythic xl almighty hexarium": {
         "value": 0,
@@ -22240,12 +22240,12 @@ return{
         "demand": "Medium"
     },
     "whimsical fairy": {
-        "value": 7000,
+        "value": 8000,
         "apiRarity": "Secret",
         "demand": "High"
     },
     "shiny whimsical fairy": {
-        "value": 56000,
+        "value": 64000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -22265,7 +22265,7 @@ return{
         "demand": "High"
     },
     "mythic the puppeteer": {
-        "value": 4000000,
+        "value": 4250000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -22285,7 +22285,7 @@ return{
         "demand": "Medium"
     },
     "shiny the puppeteer": {
-        "value": 625000,
+        "value": 650000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -22567,7 +22567,7 @@ return{
     "shiny infernal revenant": {
         "value": 112000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny xl infernal revenant": {
         "value": 0,
@@ -22639,26 +22639,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "og toxic elemental": {
-        "value": 3000,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny og toxic elemental": {
-        "value": 30000,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl og toxic elemental": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl og toxic elemental": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "og dowodle": {
         "value": 3000,
         "apiRarity": "Legendary",
@@ -22675,6 +22655,26 @@ return{
         "demand": "Medium"
     },
     "xl og dowodle": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "og toxic elemental": {
+        "value": 3000,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny og toxic elemental": {
+        "value": 30000,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl og toxic elemental": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl og toxic elemental": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -23199,46 +23199,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "og dragonfruit": {
-        "value": 6000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic og dragonfruit": {
-        "value": 155000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl og dragonfruit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic og dragonfruit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl og dragonfruit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny og dragonfruit": {
-        "value": 20000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl og dragonfruit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl og dragonfruit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "og strawberry sundae champion": {
         "value": 6500,
         "apiRarity": "Secret",
@@ -23275,6 +23235,46 @@ return{
         "demand": "Medium"
     },
     "xl og strawberry sundae champion": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "og dragonfruit": {
+        "value": 6000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic og dragonfruit": {
+        "value": 155000,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl og dragonfruit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic og dragonfruit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl og dragonfruit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny og dragonfruit": {
+        "value": 20000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl og dragonfruit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl og dragonfruit": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -23487,7 +23487,7 @@ return{
     "mythic 67 god": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl 67 god": {
         "value": 0,
@@ -23759,6 +23759,46 @@ return{
         "apiRarity": "AA-Legendary",
         "demand": "Medium"
     },
+    "super silly doggy": {
+        "value": 1000,
+        "apiRarity": "AA-Secret",
+        "demand": "Low"
+    },
+    "mythic super silly doggy": {
+        "value": 25000,
+        "apiRarity": "AA-Secret",
+        "demand": "Low"
+    },
+    "mythic xl super silly doggy": {
+        "value": 0,
+        "apiRarity": "AA-Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic super silly doggy": {
+        "value": 100000,
+        "apiRarity": "AA-Secret",
+        "demand": "Low"
+    },
+    "shiny mythic xl super silly doggy": {
+        "value": 0,
+        "apiRarity": "AA-Secret",
+        "demand": "Medium"
+    },
+    "shiny super silly doggy": {
+        "value": 7500,
+        "apiRarity": "AA-Secret",
+        "demand": "Low"
+    },
+    "shiny xl super silly doggy": {
+        "value": 0,
+        "apiRarity": "AA-Secret",
+        "demand": "Medium"
+    },
+    "xl super silly doggy": {
+        "value": 0,
+        "apiRarity": "AA-Secret",
+        "demand": "Medium"
+    },
     "silly hydra": {
         "value": 0,
         "apiRarity": "AA-Legendary",
@@ -23797,46 +23837,6 @@ return{
     "xl silly hydra": {
         "value": 0,
         "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "super silly doggy": {
-        "value": 1000,
-        "apiRarity": "AA-Secret",
-        "demand": "Low"
-    },
-    "mythic super silly doggy": {
-        "value": 25000,
-        "apiRarity": "AA-Secret",
-        "demand": "Low"
-    },
-    "mythic xl super silly doggy": {
-        "value": 0,
-        "apiRarity": "AA-Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic super silly doggy": {
-        "value": 150000,
-        "apiRarity": "AA-Secret",
-        "demand": "Low"
-    },
-    "shiny mythic xl super silly doggy": {
-        "value": 0,
-        "apiRarity": "AA-Secret",
-        "demand": "Medium"
-    },
-    "shiny super silly doggy": {
-        "value": 7500,
-        "apiRarity": "AA-Secret",
-        "demand": "Low"
-    },
-    "shiny xl super silly doggy": {
-        "value": 0,
-        "apiRarity": "AA-Secret",
-        "demand": "Medium"
-    },
-    "xl super silly doggy": {
-        "value": 0,
-        "apiRarity": "AA-Secret",
         "demand": "Medium"
     },
     "silly king doggy": {
@@ -24185,7 +24185,7 @@ return{
         "demand": "Medium"
     },
     "shiny og king kitty": {
-        "value": 1500000,
+        "value": 1600000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -24195,46 +24195,6 @@ return{
         "demand": "Medium"
     },
     "xl og king kitty": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "og godly gem": {
-        "value": 60000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic og godly gem": {
-        "value": 2150000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl og godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic og godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl og godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny og godly gem": {
-        "value": 200000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl og godly gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl og godly gem": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -24275,6 +24235,46 @@ return{
         "demand": "Medium"
     },
     "xl og duality": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "og godly gem": {
+        "value": 60000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic og godly gem": {
+        "value": 2250000,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl og godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic og godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl og godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny og godly gem": {
+        "value": 210000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl og godly gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl og godly gem": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -24999,46 +24999,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "og angelic ghost spirit": {
-        "value": 3000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic og angelic ghost spirit": {
-        "value": 80000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic xl og angelic ghost spirit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic og angelic ghost spirit": {
-        "value": 320000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl og angelic ghost spirit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny og angelic ghost spirit": {
-        "value": 15000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl og angelic ghost spirit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl og angelic ghost spirit": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "og gem overlord": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -25079,13 +25039,53 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "og angelic ghost spirit": {
+        "value": 3000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic og angelic ghost spirit": {
+        "value": 90000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic xl og angelic ghost spirit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic og angelic ghost spirit": {
+        "value": 320000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl og angelic ghost spirit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny og angelic ghost spirit": {
+        "value": 15000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl og angelic ghost spirit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl og angelic ghost spirit": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "og demonic ghost spirit": {
         "value": 3000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
     "mythic og demonic ghost spirit": {
-        "value": 80000,
+        "value": 90000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -25365,7 +25365,7 @@ return{
         "demand": "Medium"
     },
     "mythic og cardinal bunny": {
-        "value": 900000,
+        "value": 950000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -26185,7 +26185,7 @@ return{
         "demand": "Medium"
     },
     "mythic og lucky pyramidium": {
-        "value": 1600000,
+        "value": 1700000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -27959,46 +27959,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl royal candy cane": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "demonic peppermint": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -28035,6 +27995,46 @@ return{
         "demand": "Medium"
     },
     "xl demonic peppermint": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "royal candy cane": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic royal candy cane": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl royal candy cane": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic royal candy cane": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl royal candy cane": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny royal candy cane": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl royal candy cane": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl royal candy cane": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -28077,46 +28077,6 @@ return{
     "xl candycane kitty": {
         "value": 0,
         "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "velvet wolflord": {
-        "value": 5000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic velvet wolflord": {
-        "value": 140000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl velvet wolflord": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic velvet wolflord": {
-        "value": 375000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl velvet wolflord": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny velvet wolflord": {
-        "value": 15000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl velvet wolflord": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl velvet wolflord": {
-        "value": 0,
-        "apiRarity": "Secret",
         "demand": "Medium"
     },
     "christmas bell": {
@@ -28339,22 +28299,22 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "frosted bond": {
+    "lenny box": {
         "value": 3000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "shiny frosted bond": {
+    "shiny lenny box": {
         "value": 24000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "shiny xl frosted bond": {
+    "shiny xl lenny box": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "xl frosted bond": {
+    "xl lenny box": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -28375,26 +28335,6 @@ return{
         "demand": "Medium"
     },
     "xl festivus": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "lenny box": {
-        "value": 3000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny lenny box": {
-        "value": 24000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl lenny box": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl lenny box": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -28605,7 +28545,7 @@ return{
         "demand": "Medium"
     },
     "mythic morning star": {
-        "value": 2200000,
+        "value": 2300000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -28859,24 +28799,64 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "gumdrop": {
+    "peppermint boi": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "shiny gumdrop": {
+    "shiny peppermint boi": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "shiny xl gumdrop": {
+    "shiny xl peppermint boi": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
-    "xl gumdrop": {
+    "xl peppermint boi": {
         "value": 0,
-        "apiRarity": "Rare",
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "little ornament": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny little ornament": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "shiny xl little ornament": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "xl little ornament": {
+        "value": 0,
+        "apiRarity": "Common",
+        "demand": "Medium"
+    },
+    "frosted bond": {
+        "value": 3000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny frosted bond": {
+        "value": 24000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl frosted bond": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl frosted bond": {
+        "value": 0,
+        "apiRarity": "Secret",
         "demand": "Medium"
     },
     "the leviathan": {
@@ -28917,46 +28897,6 @@ return{
     "xl the leviathan": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "little ornament": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny little ornament": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "shiny xl little ornament": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "xl little ornament": {
-        "value": 0,
-        "apiRarity": "Common",
-        "demand": "Medium"
-    },
-    "peppermint boi": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny peppermint boi": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny xl peppermint boi": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "xl peppermint boi": {
-        "value": 0,
-        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "christmas elemental": {
@@ -29239,26 +29179,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "smore": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny smore": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "shiny xl smore": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
-    "xl smore": {
-        "value": 0,
-        "apiRarity": "Epic",
-        "demand": "Medium"
-    },
     "choco demon": {
         "value": 0,
         "apiRarity": "Rare",
@@ -29277,6 +29197,26 @@ return{
     "xl choco demon": {
         "value": 0,
         "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "smore": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny smore": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "shiny xl smore": {
+        "value": 0,
+        "apiRarity": "Epic",
+        "demand": "Medium"
+    },
+    "xl smore": {
+        "value": 0,
+        "apiRarity": "Epic",
         "demand": "Medium"
     },
     "cup o cocoa": {
@@ -29399,13 +29339,53 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
+    "velvet wolflord": {
+        "value": 5000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic velvet wolflord": {
+        "value": 140000,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl velvet wolflord": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic velvet wolflord": {
+        "value": 375000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl velvet wolflord": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny velvet wolflord": {
+        "value": 15000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl velvet wolflord": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl velvet wolflord": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "peppermint leviathan": {
         "value": 52500,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
     "mythic peppermint leviathan": {
-        "value": 2100000,
+        "value": 2200000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -29557,6 +29537,26 @@ return{
     "xl sylently giftbox": {
         "value": 0,
         "apiRarity": "AA-Secret",
+        "demand": "Medium"
+    },
+    "gumdrop": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny gumdrop": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "shiny xl gumdrop": {
+        "value": 0,
+        "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "xl gumdrop": {
+        "value": 0,
+        "apiRarity": "Rare",
         "demand": "Medium"
     },
     "sircfenner giftbox": {
@@ -29819,46 +29819,6 @@ return{
         "apiRarity": "AA-Common",
         "demand": "Medium"
     },
-    "big rigby": {
-        "value": 3000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic big rigby": {
-        "value": 35000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic xl big rigby": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny big rigby": {
-        "value": 10000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic big rigby": {
-        "value": 125000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny mythic xl big rigby": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl big rigby": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl big rigby": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "nert giftbox": {
         "value": 200,
         "apiRarity": "AA-Secret",
@@ -29937,6 +29897,46 @@ return{
     "xl giftbox king doggy": {
         "value": 0,
         "apiRarity": "AA-Secret",
+        "demand": "Medium"
+    },
+    "big rigby": {
+        "value": 3000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic big rigby": {
+        "value": 35000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic xl big rigby": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny big rigby": {
+        "value": 10000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic big rigby": {
+        "value": 125000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny mythic xl big rigby": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl big rigby": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl big rigby": {
+        "value": 0,
+        "apiRarity": "Secret",
         "demand": "Medium"
     },
     "santa nert plushie": {
@@ -30059,6 +30059,46 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
+    "joy candle": {
+        "value": 4000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic joy candle": {
+        "value": 40000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic xl joy candle": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny joy candle": {
+        "value": 12000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic joy candle": {
+        "value": 120000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl joy candle": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl joy candle": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl joy candle": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
     "winter phantom": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -30099,48 +30139,8 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "joy candle": {
-        "value": 3500,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic joy candle": {
-        "value": 40000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic xl joy candle": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny joy candle": {
-        "value": 12000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic joy candle": {
-        "value": 120000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl joy candle": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl joy candle": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl joy candle": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "love candle": {
-        "value": 3500,
+        "value": 4000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -30180,7 +30180,7 @@ return{
         "demand": "Medium"
     },
     "peace candle": {
-        "value": 3500,
+        "value": 4000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -30260,7 +30260,7 @@ return{
         "demand": "Medium"
     },
     "hope candle": {
-        "value": 3500,
+        "value": 4000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -30535,7 +30535,7 @@ return{
         "demand": "Medium"
     },
     "shiny mythic soulflake": {
-        "value": 900000,
+        "value": 800000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -31120,9 +31120,9 @@ return{
         "demand": "Medium"
     },
     "divine frost": {
-        "value": 55000,
+        "value": 50000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "mythic divine frost": {
         "value": 50000,
@@ -31487,7 +31487,7 @@ return{
     "mythic mistletoe fairy": {
         "value": 275000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl mistletoe fairy": {
         "value": 0,
@@ -31760,7 +31760,7 @@ return{
         "demand": "Medium"
     },
     "shiny mythic frosty lord shock": {
-        "value": 900000,
+        "value": 800000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -32219,46 +32219,6 @@ return{
         "apiRarity": "AA-Common",
         "demand": "Medium"
     },
-    "ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl ball drop hexarium": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "new years champion": {
         "value": 40000,
         "apiRarity": "Secret",
@@ -32297,6 +32257,46 @@ return{
     "xl new years champion": {
         "value": 0,
         "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl ball drop hexarium": {
+        "value": 0,
+        "apiRarity": "Legendary",
         "demand": "Medium"
     },
     "new years serpent": {
@@ -32387,7 +32387,7 @@ return{
     "mythic prosperity": {
         "value": 275000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl prosperity": {
         "value": 0,
@@ -32500,7 +32500,7 @@ return{
         "demand": "Medium"
     },
     "new years shard": {
-        "value": 60000,
+        "value": 50000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -33159,26 +33159,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "picasso split": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny picasso split": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl picasso split": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
-    "xl picasso split": {
-        "value": 0,
-        "apiRarity": "Legendary",
-        "demand": "Medium"
-    },
     "fairy log": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -33195,6 +33175,26 @@ return{
         "demand": "Medium"
     },
     "xl fairy log": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "picasso split": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny picasso split": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl picasso split": {
+        "value": 0,
+        "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "xl picasso split": {
         "value": 0,
         "apiRarity": "Legendary",
         "demand": "Medium"
@@ -33280,7 +33280,7 @@ return{
         "demand": "Medium"
     },
     "2026 kitsune": {
-        "value": 70000,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -33296,46 +33296,6 @@ return{
     },
     "xl 2026 kitsune": {
         "value": 45000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "starglitcher": {
-        "value": 750000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic starglitcher": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl starglitcher": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic starglitcher": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl starglitcher": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny starglitcher": {
-        "value": 1300000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl starglitcher": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl starglitcher": {
-        "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -33375,6 +33335,46 @@ return{
         "demand": "Medium"
     },
     "xl festive basket": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "starglitcher": {
+        "value": 750000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic starglitcher": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl starglitcher": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic starglitcher": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl starglitcher": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny starglitcher": {
+        "value": 1300000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny xl starglitcher": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl starglitcher": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -33639,46 +33639,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "og infinity gem": {
-        "value": 600000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic og infinity gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic xl og infinity gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic og infinity gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl og infinity gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny og infinity gem": {
-        "value": 1600000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl og infinity gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl og infinity gem": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "aurora guardian": {
         "value": 500000,
         "apiRarity": "Secret",
@@ -33715,6 +33675,46 @@ return{
         "demand": "Medium"
     },
     "xl aurora guardian": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "og infinity gem": {
+        "value": 600000,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic og infinity gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic xl og infinity gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic og infinity gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl og infinity gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny og infinity gem": {
+        "value": 1600000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl og infinity gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl og infinity gem": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -33759,46 +33759,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "chroma star": {
-        "value": 70000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic chroma star": {
-        "value": 850000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl chroma star": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny chroma star": {
-        "value": 225000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic chroma star": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl chroma star": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl chroma star": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl chroma star": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "nexus": {
         "value": 90000,
         "apiRarity": "Secret",
@@ -33835,6 +33795,46 @@ return{
         "demand": "Medium"
     },
     "xl nexus": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "chroma star": {
+        "value": 70000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic chroma star": {
+        "value": 850000,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl chroma star": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny chroma star": {
+        "value": 225000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic chroma star": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl chroma star": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl chroma star": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl chroma star": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -34180,7 +34180,7 @@ return{
         "demand": "Medium"
     },
     "fancy dragon plushie": {
-        "value": 75000,
+        "value": 65000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -34665,7 +34665,7 @@ return{
         "demand": "Medium"
     },
     "mythic azure fate": {
-        "value": 600000,
+        "value": 550000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -34915,7 +34915,7 @@ return{
         "demand": "Medium"
     },
     "shiny mythic pufferfish tophat": {
-        "value": 1300000,
+        "value": 1200000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35040,7 +35040,7 @@ return{
         "demand": "Medium"
     },
     "shiny mythic bruh tophat": {
-        "value": 1300000,
+        "value": 1200000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35239,46 +35239,6 @@ return{
         "apiRarity": "AA-Rare",
         "demand": "Medium"
     },
-    "key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "mythic key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "mythic xl key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "shiny key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "shiny mythic xl key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "shiny xl key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
-    "xl key performer": {
-        "value": 0,
-        "apiRarity": "AA-Legendary",
-        "demand": "Medium"
-    },
     "symphonic hieromphant": {
         "value": 60000,
         "apiRarity": "AA-Secret",
@@ -35317,6 +35277,46 @@ return{
     "xl symphonic hieromphant": {
         "value": 0,
         "apiRarity": "AA-Secret",
+        "demand": "Medium"
+    },
+    "key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
+        "demand": "Medium"
+    },
+    "mythic key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
+        "demand": "Medium"
+    },
+    "mythic xl key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
+        "demand": "Medium"
+    },
+    "shiny key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
+        "demand": "Medium"
+    },
+    "shiny mythic xl key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
+        "demand": "Medium"
+    },
+    "shiny xl key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
+        "demand": "Medium"
+    },
+    "xl key performer": {
+        "value": 0,
+        "apiRarity": "AA-Legendary",
         "demand": "Medium"
     },
     "giant bongo kitty": {
@@ -35440,7 +35440,7 @@ return{
         "demand": "Medium"
     },
     "shadow crystal shard": {
-        "value": 60000,
+        "value": 45000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -35460,12 +35460,12 @@ return{
         "demand": "Medium"
     },
     "dark jester": {
-        "value": 115000,
+        "value": 100000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
     "mythic dark jester": {
-        "value": 90000,
+        "value": 80000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -36100,7 +36100,7 @@ return{
         "demand": "Medium"
     },
     "stellar acheron": {
-        "value": 4000,
+        "value": 5000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -36185,7 +36185,7 @@ return{
         "demand": "Medium"
     },
     "mythic secret circus stack": {
-        "value": 400000,
+        "value": 350000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -36220,7 +36220,7 @@ return{
         "demand": "Medium"
     },
     "circus monster": {
-        "value": 4000000,
+        "value": 4300000,
         "apiRarity": "Secret",
         "demand": "Very high"
     },
@@ -36360,7 +36360,7 @@ return{
         "demand": "Medium"
     },
     "chroma defender": {
-        "value": 80000,
+        "value": 70000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -36370,14 +36370,14 @@ return{
         "demand": "Low"
     },
     "shiny xl chroma defender": {
-        "value": 960000,
+        "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "xl chroma defender": {
-        "value": 120000,
+        "value": 100000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "retro sylentlys pet": {
         "value": 35000,
@@ -36420,7 +36420,7 @@ return{
         "demand": "Medium"
     },
     "bot in the box": {
-        "value": 70000,
+        "value": 55000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -36480,7 +36480,7 @@ return{
         "demand": "Medium"
     },
     "okami spirit": {
-        "value": 60000,
+        "value": 55000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -36505,7 +36505,7 @@ return{
         "demand": "Medium"
     },
     "shiny okami spirit": {
-        "value": 250000,
+        "value": 230000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -37059,46 +37059,6 @@ return{
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
-    "floral dogcat": {
-        "value": 25000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic floral dogcat": {
-        "value": 4000000,
-        "apiRarity": "Secret",
-        "demand": "High"
-    },
-    "mythic xl floral dogcat": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny floral dogcat": {
-        "value": 150000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic floral dogcat": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl floral dogcat": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl floral dogcat": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl floral dogcat": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "magician bunny": {
         "value": 0,
         "apiRarity": "Common",
@@ -37137,6 +37097,46 @@ return{
     "xl que fofo": {
         "value": 0,
         "apiRarity": "Rare",
+        "demand": "Medium"
+    },
+    "floral dogcat": {
+        "value": 25000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic floral dogcat": {
+        "value": 4000000,
+        "apiRarity": "Secret",
+        "demand": "High"
+    },
+    "mythic xl floral dogcat": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny floral dogcat": {
+        "value": 150000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic floral dogcat": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl floral dogcat": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl floral dogcat": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl floral dogcat": {
+        "value": 0,
+        "apiRarity": "Secret",
         "demand": "Medium"
     },
     "mini-go round": {
@@ -37840,7 +37840,7 @@ return{
         "demand": "Medium"
     },
     "divine one": {
-        "value": 100000,
+        "value": 90000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -37860,7 +37860,7 @@ return{
         "demand": "Medium"
     },
     "hellish one": {
-        "value": 100000,
+        "value": 90000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -37987,7 +37987,7 @@ return{
     "shiny pure guard": {
         "value": 240000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny xl pure guard": {
         "value": 0,
@@ -38219,46 +38219,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "heartbroken one": {
-        "value": 1000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "mythic heartbroken one": {
-        "value": 6000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "mythic xl heartbroken one": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny heartbroken one": {
-        "value": 8000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny mythic heartbroken one": {
-        "value": 48000,
-        "apiRarity": "Secret",
-        "demand": "Low"
-    },
-    "shiny mythic xl heartbroken one": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl heartbroken one": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl heartbroken one": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "mirror gem": {
         "value": 0,
         "apiRarity": "Secret",
@@ -38295,6 +38255,46 @@ return{
         "demand": "Medium"
     },
     "xl mirror gem": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "heartbroken one": {
+        "value": 1000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "mythic heartbroken one": {
+        "value": 6000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "mythic xl heartbroken one": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny heartbroken one": {
+        "value": 8000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny mythic heartbroken one": {
+        "value": 48000,
+        "apiRarity": "Secret",
+        "demand": "Low"
+    },
+    "shiny mythic xl heartbroken one": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl heartbroken one": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl heartbroken one": {
         "value": 0,
         "apiRarity": "Secret",
         "demand": "Medium"
@@ -38355,7 +38355,7 @@ return{
         "demand": "Medium"
     },
     "shiny dark seer": {
-        "value": 150000,
+        "value": 135000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -38407,7 +38407,7 @@ return{
     "shiny lovely shock": {
         "value": 320000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny xl lovely shock": {
         "value": 0,
@@ -38420,7 +38420,7 @@ return{
         "demand": "Medium"
     },
     "inferno gryphon": {
-        "value": 90000,
+        "value": 85000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -38640,9 +38640,9 @@ return{
         "demand": "Medium"
     },
     "que fofo face god": {
-        "value": 0,
+        "value": 3800000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "shiny que fofo face god": {
         "value": 0,
@@ -39345,7 +39345,7 @@ return{
         "demand": "Medium"
     },
     "mythic rainbow pyramidium": {
-        "value": 0,
+        "value": 70000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40279,46 +40279,6 @@ return{
         "apiRarity": "Secret",
         "demand": "Medium"
     },
-    "queen of thorns": {
-        "value": 30000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic queen of thorns": {
-        "value": 325000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "mythic xl queen of thorns": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic queen of thorns": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny mythic xl queen of thorns": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny queen of thorns": {
-        "value": 80000,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "shiny xl queen of thorns": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
-    "xl queen of thorns": {
-        "value": 0,
-        "apiRarity": "Secret",
-        "demand": "Medium"
-    },
     "darkness rose": {
         "value": 0,
         "apiRarity": "Legendary",
@@ -40357,6 +40317,46 @@ return{
     "xl darkness rose": {
         "value": 0,
         "apiRarity": "Legendary",
+        "demand": "Medium"
+    },
+    "queen of thorns": {
+        "value": 30000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic queen of thorns": {
+        "value": 325000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "mythic xl queen of thorns": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic queen of thorns": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny mythic xl queen of thorns": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny queen of thorns": {
+        "value": 80000,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "shiny xl queen of thorns": {
+        "value": 0,
+        "apiRarity": "Secret",
+        "demand": "Medium"
+    },
+    "xl queen of thorns": {
+        "value": 0,
+        "apiRarity": "Secret",
         "demand": "Medium"
     },
     "the love thief": {
@@ -40405,7 +40405,7 @@ return{
         "demand": "Medium"
     },
     "mythic rainbow gryphon": {
-        "value": 0,
+        "value": 65000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
