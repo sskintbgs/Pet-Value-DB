@@ -3067,7 +3067,7 @@
     "mythic midas": {
         "value": 0,
         "apiRarity": "Legendary",
-        "demand": "Low"
+        "demand": "Medium"
     },
     "mythic xl midas": {
         "value": 0,
@@ -3082,7 +3082,7 @@
     "shiny mythic midas": {
         "value": 0,
         "apiRarity": "Legendary",
-        "demand": "Low"
+        "demand": "Medium"
     },
     "shiny mythic xl midas": {
         "value": 0,
@@ -3342,7 +3342,7 @@
     "dementor": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Very high"
     },
     "mythic dementor": {
         "value": 0,
@@ -7380,7 +7380,7 @@
         "demand": "Medium"
     },
     "infernal": {
-        "value": 500000,
+        "value": 525000,
         "apiRarity": "Legendary",
         "demand": "High"
     },
@@ -7465,9 +7465,9 @@
         "demand": "Medium"
     },
     "mythic crystal teddy": {
-        "value": 0,
+        "value": 72500,
         "apiRarity": "Legendary",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl crystal teddy": {
         "value": 0,
@@ -10502,7 +10502,7 @@
     "shiny mythic frost defender": {
         "value": 1900000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "shiny mythic xl frost defender": {
         "value": 0,
@@ -14860,7 +14860,7 @@
         "demand": "Medium"
     },
     "moonlit gaze": {
-        "value": 310000,
+        "value": 300000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -16065,7 +16065,7 @@
         "demand": "High"
     },
     "mythic equilibrium": {
-        "value": 475000,
+        "value": 500000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -16720,7 +16720,7 @@
         "demand": "Medium"
     },
     "trophy": {
-        "value": 310000,
+        "value": 300000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -18162,7 +18162,7 @@
     "sylentlys pet": {
         "value": 350000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "shiny sylentlys pet": {
         "value": 1000000,
@@ -19105,7 +19105,7 @@
         "demand": "Medium"
     },
     "shiny shattered soul": {
-        "value": 775000,
+        "value": 800000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -20420,14 +20420,14 @@
         "demand": "Medium"
     },
     "rose koi": {
-        "value": 500000,
+        "value": 550000,
         "apiRarity": "Secret",
         "demand": "High"
     },
     "mythic rose koi": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl rose koi": {
         "value": 0,
@@ -20545,9 +20545,9 @@
         "demand": "Medium"
     },
     "mythic the hand": {
-        "value": 0,
+        "value": 225000,
         "apiRarity": "Legendary",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl the hand": {
         "value": 0,
@@ -20660,7 +20660,7 @@
         "demand": "Medium"
     },
     "sinister lord": {
-        "value": 1300000,
+        "value": 1350000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -21365,7 +21365,7 @@
         "demand": "Medium"
     },
     "mythic witch rigby": {
-        "value": 0,
+        "value": 425000,
         "apiRarity": "Legendary",
         "demand": "Medium"
     },
@@ -21405,9 +21405,9 @@
         "demand": "Medium"
     },
     "mythic tainter spirit": {
-        "value": 0,
+        "value": 400000,
         "apiRarity": "Legendary",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl tainter spirit": {
         "value": 0,
@@ -21500,7 +21500,7 @@
         "demand": "Medium"
     },
     "og radiance": {
-        "value": 265000,
+        "value": 275000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -23360,7 +23360,7 @@
         "demand": "Medium"
     },
     "og giant robot": {
-        "value": 1350000,
+        "value": 1400000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -23485,7 +23485,7 @@
         "demand": "Medium"
     },
     "mythic 67 god": {
-        "value": 0,
+        "value": 3500000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -23525,9 +23525,9 @@
         "demand": "Medium"
     },
     "mythic white swan": {
-        "value": 0,
+        "value": 325000,
         "apiRarity": "Legendary",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl white swan": {
         "value": 0,
@@ -23880,7 +23880,7 @@
         "demand": "Medium"
     },
     "silly leviathan": {
-        "value": 1400000,
+        "value": 1450000,
         "apiRarity": "AA-Secret",
         "demand": "High"
     },
@@ -25967,7 +25967,7 @@
     "shiny og love thief": {
         "value": 50000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny xl og love thief": {
         "value": 0,
@@ -26247,7 +26247,7 @@
     "shiny og hellshard": {
         "value": 50000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny xl og hellshard": {
         "value": 0,
@@ -32405,7 +32405,7 @@
         "demand": "Medium"
     },
     "shiny prosperity": {
-        "value": 45000,
+        "value": 40000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -33705,7 +33705,7 @@
         "demand": "Medium"
     },
     "shiny og infinity gem": {
-        "value": 1600000,
+        "value": 1500000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -34905,7 +34905,7 @@
         "demand": "Medium"
     },
     "mythic pufferfish tophat": {
-        "value": 575000,
+        "value": 550000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35025,7 +35025,7 @@
         "demand": "Medium"
     },
     "mythic bruh tophat": {
-        "value": 575000,
+        "value": 550000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35240,7 +35240,7 @@
         "demand": "Medium"
     },
     "symphonic hieromphant": {
-        "value": 60000,
+        "value": 55000,
         "apiRarity": "AA-Secret",
         "demand": "Low"
     },
@@ -35417,7 +35417,7 @@
     "shiny mythic royal lion": {
         "value": 500000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny mythic xl royal lion": {
         "value": 0,
@@ -35515,7 +35515,7 @@
         "demand": "Medium"
     },
     "shiny mythic robot tophat": {
-        "value": 50000,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35707,7 +35707,7 @@
     "shiny neon prototype": {
         "value": 120000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "shiny xl neon prototype": {
         "value": 0,
@@ -36220,7 +36220,7 @@
         "demand": "Medium"
     },
     "circus monster": {
-        "value": 4300000,
+        "value": 4500000,
         "apiRarity": "Secret",
         "demand": "Very high"
     },
@@ -36527,7 +36527,7 @@
     "mythic dragon lily": {
         "value": 950000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl dragon lily": {
         "value": 0,
@@ -37025,9 +37025,9 @@
         "demand": "Medium"
     },
     "mythic azure lily": {
-        "value": 0,
+        "value": 300000,
         "apiRarity": "Legendary",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl azure lily": {
         "value": 0,
@@ -37365,7 +37365,7 @@
         "demand": "Medium"
     },
     "mythic manticore": {
-        "value": 675000,
+        "value": 650000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -37407,7 +37407,7 @@
     "mythic devils skull": {
         "value": 525000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl devils skull": {
         "value": 0,
@@ -38125,7 +38125,7 @@
         "demand": "Medium"
     },
     "mythic inferno gem": {
-        "value": 3800000,
+        "value": 4000000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -38527,7 +38527,7 @@
     "mythic kraken couplet": {
         "value": 450000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl kraken couplet": {
         "value": 0,
@@ -38940,14 +38940,14 @@
         "demand": "Medium"
     },
     "super leviathan": {
-        "value": 65000,
+        "value": 60000,
         "apiRarity": "AA-Secret",
         "demand": "Low"
     },
     "mythic super leviathan": {
         "value": 0,
         "apiRarity": "AA-Secret",
-        "demand": "Medium"
+        "demand": "Low"
     },
     "mythic xl super leviathan": {
         "value": 0,
@@ -39340,7 +39340,7 @@
         "demand": "Medium"
     },
     "rainbow pyramidium": {
-        "value": 0,
+        "value": 40000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -39540,7 +39540,7 @@
         "demand": "Medium"
     },
     "sakura specter": {
-        "value": 0,
+        "value": 2200000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -40085,7 +40085,7 @@
         "demand": "Medium"
     },
     "mythic memory of remembrance": {
-        "value": 0,
+        "value": 1300000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40740,7 +40740,7 @@
         "demand": "Medium"
     },
     "night bloom": {
-        "value": 0,
+        "value": 10000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -41040,14 +41040,14 @@
         "demand": "Medium"
     },
     "chinese dragon": {
-        "value": 0,
+        "value": 800000,
         "apiRarity": "Secret",
         "demand": "High"
     },
     "mythic chinese dragon": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl chinese dragon": {
         "value": 0,
