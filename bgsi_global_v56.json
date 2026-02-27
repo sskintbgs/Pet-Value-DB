@@ -2967,7 +2967,7 @@
     "mythic easter basket": {
         "value": 0,
         "apiRarity": "Secret",
-        "demand": "Very high"
+        "demand": "High"
     },
     "mythic xl easter basket": {
         "value": 0,
@@ -6445,7 +6445,7 @@
         "demand": "Medium"
     },
     "mythic dragonfruit": {
-        "value": 950000,
+        "value": 1000000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7195,7 +7195,7 @@
         "demand": "Medium"
     },
     "shiny monolith": {
-        "value": 55000,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -7700,7 +7700,7 @@
         "demand": "Medium"
     },
     "kraken": {
-        "value": 17500,
+        "value": 20000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8000,7 +8000,7 @@
         "demand": "High"
     },
     "shiny mythic fire basilisk": {
-        "value": 0,
+        "value": 13000000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8100,12 +8100,12 @@
         "demand": "Medium"
     },
     "immortal one": {
-        "value": 300000,
+        "value": 325000,
         "apiRarity": "Secret",
         "demand": "High"
     },
     "mythic immortal one": {
-        "value": 3750000,
+        "value": 4000000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -8115,7 +8115,7 @@
         "demand": "Medium"
     },
     "shiny immortal one": {
-        "value": 800000,
+        "value": 850000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -9100,7 +9100,7 @@
         "demand": "Medium"
     },
     "true titan": {
-        "value": 350000,
+        "value": 375000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -9520,7 +9520,7 @@
         "demand": "Medium"
     },
     "pyramidium": {
-        "value": 350000,
+        "value": 375000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -9705,7 +9705,7 @@
         "demand": "High"
     },
     "mythic patriotic robot": {
-        "value": 1600000,
+        "value": 0,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -9755,7 +9755,7 @@
         "demand": "Medium"
     },
     "shiny liberty": {
-        "value": 55000,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11115,7 +11115,7 @@
         "demand": "Medium"
     },
     "shiny eternal star": {
-        "value": 45000,
+        "value": 50000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11295,7 +11295,7 @@
         "demand": "Medium"
     },
     "shiny destiny": {
-        "value": 175000,
+        "value": 190000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -11955,7 +11955,7 @@
         "demand": "Medium"
     },
     "shiny false prophet": {
-        "value": 175000,
+        "value": 190000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -13845,7 +13845,7 @@
         "demand": "High"
     },
     "mythic koi": {
-        "value": 5750000,
+        "value": 6250000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -14325,7 +14325,7 @@
         "demand": "Medium"
     },
     "mythic prisma": {
-        "value": 1850000,
+        "value": 2000000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -14875,7 +14875,7 @@
         "demand": "Medium"
     },
     "shiny moonlit gaze": {
-        "value": 900000,
+        "value": 850000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -15055,7 +15055,7 @@
         "demand": "Medium"
     },
     "shiny deception": {
-        "value": 0,
+        "value": 150000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -15340,7 +15340,7 @@
         "demand": "Medium"
     },
     "giant pixel robot": {
-        "value": 2500000,
+        "value": 2700000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -15655,7 +15655,7 @@
         "demand": "Medium"
     },
     "shiny mariposa": {
-        "value": 125000,
+        "value": 135000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -16075,7 +16075,7 @@
         "demand": "Medium"
     },
     "shiny equilibrium": {
-        "value": 55000,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -16165,7 +16165,7 @@
         "demand": "Medium"
     },
     "shiny plasma wolflord": {
-        "value": 65000,
+        "value": 70000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -16545,7 +16545,7 @@
         "demand": "Medium"
     },
     "shiny pot o gold": {
-        "value": 190000,
+        "value": 200000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -16745,7 +16745,7 @@
         "demand": "Medium"
     },
     "shiny trophy": {
-        "value": 900000,
+        "value": 850000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -16905,7 +16905,7 @@
         "demand": "Medium"
     },
     "mythic big round": {
-        "value": 3600000,
+        "value": 3750000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -17107,7 +17107,7 @@
     "mythic 1x1x1x1": {
         "value": 600000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl 1x1x1x1": {
         "value": 0,
@@ -17160,7 +17160,7 @@
         "demand": "Medium"
     },
     "giant classic chicken": {
-        "value": 42500,
+        "value": 45000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -17840,7 +17840,7 @@
         "demand": "Medium"
     },
     "almighty pumpkin": {
-        "value": 11000,
+        "value": 12500,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -17900,7 +17900,7 @@
         "demand": "Medium"
     },
     "pumpgeist": {
-        "value": 7000,
+        "value": 8000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -17925,7 +17925,7 @@
         "demand": "Medium"
     },
     "shiny pumpgeist": {
-        "value": 0,
+        "value": 45000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -18560,7 +18560,7 @@
         "demand": "Medium"
     },
     "maple divinity": {
-        "value": 25000,
+        "value": 27500,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -18575,7 +18575,7 @@
         "demand": "Medium"
     },
     "shiny maple divinity": {
-        "value": 125000,
+        "value": 130000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -19685,7 +19685,7 @@
         "demand": "High"
     },
     "mythic angelic ghost spirit": {
-        "value": 1850000,
+        "value": 1900000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -19695,7 +19695,7 @@
         "demand": "Medium"
     },
     "shiny angelic ghost spirit": {
-        "value": 110000,
+        "value": 120000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -19725,7 +19725,7 @@
         "demand": "High"
     },
     "mythic demonic ghost spirit": {
-        "value": 1850000,
+        "value": 1900000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -19735,7 +19735,7 @@
         "demand": "Medium"
     },
     "shiny demonic ghost spirit": {
-        "value": 110000,
+        "value": 120000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -20180,7 +20180,7 @@
         "demand": "Medium"
     },
     "frankenbot": {
-        "value": 6500,
+        "value": 7000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -21465,7 +21465,7 @@
         "demand": "Low"
     },
     "mythic pumpkin pyramidium": {
-        "value": 850000,
+        "value": 800000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -21505,7 +21505,7 @@
         "demand": "High"
     },
     "shiny og radiance": {
-        "value": 525000,
+        "value": 575000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -21560,7 +21560,7 @@
         "demand": "High"
     },
     "shiny mythic axolotl army": {
-        "value": 825000,
+        "value": 850000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -22260,12 +22260,12 @@
         "demand": "Medium"
     },
     "the puppeteer": {
-        "value": 325000,
+        "value": 350000,
         "apiRarity": "Secret",
         "demand": "High"
     },
     "mythic the puppeteer": {
-        "value": 4250000,
+        "value": 4500000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -24002,7 +24002,7 @@
     "shadow raven": {
         "value": 4000,
         "apiRarity": "Secret",
-        "demand": "Low"
+        "demand": "Medium"
     },
     "mythic shadow raven": {
         "value": 50000,
@@ -24160,7 +24160,7 @@
         "demand": "Medium"
     },
     "og king kitty": {
-        "value": 625000,
+        "value": 650000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -25055,7 +25055,7 @@
         "demand": "Medium"
     },
     "shiny mythic og angelic ghost spirit": {
-        "value": 320000,
+        "value": 360000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -25095,7 +25095,7 @@
         "demand": "Medium"
     },
     "shiny mythic og demonic ghost spirit": {
-        "value": 320000,
+        "value": 360000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -25145,7 +25145,7 @@
         "demand": "Medium"
     },
     "shiny og radiant one": {
-        "value": 110000,
+        "value": 100000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -25365,7 +25365,7 @@
         "demand": "Medium"
     },
     "mythic og cardinal bunny": {
-        "value": 950000,
+        "value": 1050000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -27345,7 +27345,7 @@
         "demand": "Medium"
     },
     "mythic flake spirit": {
-        "value": 155000,
+        "value": 160000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -27380,7 +27380,7 @@
         "demand": "Medium"
     },
     "kuuhenki": {
-        "value": 40000,
+        "value": 37500,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -27395,7 +27395,7 @@
         "demand": "Medium"
     },
     "shiny kuuhenki": {
-        "value": 150000,
+        "value": 140000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -29000,7 +29000,7 @@
         "demand": "Medium"
     },
     "festive wreath": {
-        "value": 50000,
+        "value": 40000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -29220,7 +29220,7 @@
         "demand": "Medium"
     },
     "cup o cocoa": {
-        "value": 6500,
+        "value": 7000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -29345,7 +29345,7 @@
         "demand": "Medium"
     },
     "mythic velvet wolflord": {
-        "value": 140000,
+        "value": 155000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -30025,7 +30025,7 @@
         "demand": "High"
     },
     "mythic christmas robot": {
-        "value": 5500000,
+        "value": 5750000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -31100,7 +31100,7 @@
         "demand": "Medium"
     },
     "christmas trophy": {
-        "value": 50000,
+        "value": 40000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -31367,7 +31367,7 @@
     "mythic auronium": {
         "value": 750000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl auronium": {
         "value": 0,
@@ -32220,7 +32220,7 @@
         "demand": "Medium"
     },
     "new years champion": {
-        "value": 40000,
+        "value": 35000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -32785,7 +32785,7 @@
         "demand": "Medium"
     },
     "mythic super crimson bloodmoon": {
-        "value": 2200000,
+        "value": 2100000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -32825,7 +32825,7 @@
         "demand": "Medium"
     },
     "mythic bubble": {
-        "value": 2300000,
+        "value": 2100000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -32985,7 +32985,7 @@
         "demand": "Medium"
     },
     "mythic pixie": {
-        "value": 275000,
+        "value": 325000,
         "apiRarity": "Legendary",
         "demand": "High"
     },
@@ -33240,7 +33240,7 @@
         "demand": "Medium"
     },
     "witch of the woods": {
-        "value": 35000,
+        "value": 30000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -33600,7 +33600,7 @@
         "demand": "Medium"
     },
     "og new years champion": {
-        "value": 85000,
+        "value": 80000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -33807,7 +33807,7 @@
     "mythic chroma star": {
         "value": 850000,
         "apiRarity": "Secret",
-        "demand": "High"
+        "demand": "Medium"
     },
     "mythic xl chroma star": {
         "value": 0,
@@ -33845,7 +33845,7 @@
         "demand": "Medium"
     },
     "mythic serendipity": {
-        "value": 4000000,
+        "value": 4250000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -33865,7 +33865,7 @@
         "demand": "Medium"
     },
     "shiny serendipity": {
-        "value": 725000,
+        "value": 700000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -34915,7 +34915,7 @@
         "demand": "Medium"
     },
     "shiny mythic pufferfish tophat": {
-        "value": 1200000,
+        "value": 1100000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35040,7 +35040,7 @@
         "demand": "Medium"
     },
     "shiny mythic bruh tophat": {
-        "value": 1200000,
+        "value": 1100000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35100,7 +35100,7 @@
         "demand": "Medium"
     },
     "bubble circus show": {
-        "value": 450000,
+        "value": 425000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35115,7 +35115,7 @@
         "demand": "Medium"
     },
     "shiny bubble circus show": {
-        "value": 1200000,
+        "value": 1100000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35405,7 +35405,7 @@
         "demand": "Medium"
     },
     "mythic royal lion": {
-        "value": 300000,
+        "value": 250000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35460,7 +35460,7 @@
         "demand": "Medium"
     },
     "dark jester": {
-        "value": 100000,
+        "value": 90000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -35725,7 +35725,7 @@
         "demand": "Medium"
     },
     "mythic ice cream fairy": {
-        "value": 700000,
+        "value": 650000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -35765,7 +35765,7 @@
         "demand": "Medium"
     },
     "mythic providence": {
-        "value": 1250000,
+        "value": 1200000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -35805,7 +35805,7 @@
         "demand": "Medium"
     },
     "mythic twilight opal": {
-        "value": 750000,
+        "value": 700000,
         "apiRarity": "Secret",
         "demand": "Low"
     },
@@ -35925,7 +35925,7 @@
         "demand": "Medium"
     },
     "mythic elegant emerald": {
-        "value": 1300000,
+        "value": 1200000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -37105,7 +37105,7 @@
         "demand": "Medium"
     },
     "mythic floral dogcat": {
-        "value": 4000000,
+        "value": 4250000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -37400,7 +37400,7 @@
         "demand": "Medium"
     },
     "devils skull": {
-        "value": 40000,
+        "value": 30000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -37665,7 +37665,7 @@
         "demand": "Medium"
     },
     "shiny supreme seraphim": {
-        "value": 725000,
+        "value": 675000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -37740,7 +37740,7 @@
         "demand": "Medium"
     },
     "reincarnation": {
-        "value": 50000,
+        "value": 45000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -37765,7 +37765,7 @@
         "demand": "Medium"
     },
     "shiny reincarnation": {
-        "value": 175000,
+        "value": 150000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -38135,7 +38135,7 @@
         "demand": "Medium"
     },
     "shiny inferno gem": {
-        "value": 650000,
+        "value": 625000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -38220,7 +38220,7 @@
         "demand": "Medium"
     },
     "mirror gem": {
-        "value": 0,
+        "value": 500000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -38305,9 +38305,9 @@
         "demand": "Medium"
     },
     "mythic valentium": {
-        "value": 0,
+        "value": 2000000,
         "apiRarity": "Secret",
-        "demand": "Medium"
+        "demand": "High"
     },
     "mythic xl valentium": {
         "value": 0,
@@ -38325,7 +38325,7 @@
         "demand": "Medium"
     },
     "shiny valentium": {
-        "value": 0,
+        "value": 400000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -39685,7 +39685,7 @@
         "demand": "Medium"
     },
     "shiny sakuralord": {
-        "value": 0,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -39765,7 +39765,7 @@
         "demand": "Medium"
     },
     "mythic stuffed tabby": {
-        "value": 0,
+        "value": 30000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40320,7 +40320,7 @@
         "demand": "Medium"
     },
     "queen of thorns": {
-        "value": 30000,
+        "value": 20000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40345,7 +40345,7 @@
         "demand": "Medium"
     },
     "shiny queen of thorns": {
-        "value": 80000,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40360,7 +40360,7 @@
         "demand": "Medium"
     },
     "the love thief": {
-        "value": 1700000,
+        "value": 1800000,
         "apiRarity": "Secret",
         "demand": "High"
     },
@@ -40680,12 +40680,12 @@
         "demand": "Medium"
     },
     "light lantern": {
-        "value": 0,
+        "value": 30000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
     "mythic light lantern": {
-        "value": 0,
+        "value": 50000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40745,7 +40745,7 @@
         "demand": "Medium"
     },
     "mythic night bloom": {
-        "value": 0,
+        "value": 300000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40800,12 +40800,12 @@
         "demand": "Medium"
     },
     "fortuitous overlord": {
-        "value": 0,
+        "value": 3000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
     "mythic fortuitous overlord": {
-        "value": 0,
+        "value": 40000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40820,7 +40820,7 @@
         "demand": "Medium"
     },
     "shiny mythic fortuitous overlord": {
-        "value": 0,
+        "value": 160000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -40840,7 +40840,7 @@
         "demand": "Medium"
     },
     "golden tokage": {
-        "value": 0,
+        "value": 7000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -41080,7 +41080,7 @@
         "demand": "Medium"
     },
     "fortune star": {
-        "value": 0,
+        "value": 20000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -41560,7 +41560,7 @@
         "demand": "Medium"
     },
     "everlasting moonglow": {
-        "value": 0,
+        "value": 70000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -41740,7 +41740,7 @@
         "demand": "Medium"
     },
     "moon goddess": {
-        "value": 0,
+        "value": 15000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
@@ -41755,7 +41755,7 @@
         "demand": "Medium"
     },
     "shiny moon goddess": {
-        "value": 0,
+        "value": 60000,
         "apiRarity": "Secret",
         "demand": "Medium"
     },
