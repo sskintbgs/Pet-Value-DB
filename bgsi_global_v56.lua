@@ -1517,7 +1517,7 @@ return {
     ["shiny mythic the overlord"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Low"
+        ["demand"] = "Medium"
     },
     ["shiny mythic xl the overlord"] = {
         ["value"] = 0,
@@ -1602,7 +1602,7 @@ return {
     ["manarium"] = {
         ["value"] = 0,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic manarium"] = {
         ["value"] = 0,
@@ -1617,7 +1617,7 @@ return {
     ["shiny manarium"] = {
         ["value"] = 0,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic manarium"] = {
         ["value"] = 0,
@@ -2907,7 +2907,7 @@ return {
     ["mythic chocolate bunny"] = {
         ["value"] = 0,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl chocolate bunny"] = {
         ["value"] = 0,
@@ -3107,7 +3107,7 @@ return {
     ["mythic patronus"] = {
         ["value"] = 0,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl patronus"] = {
         ["value"] = 0,
@@ -3407,7 +3407,7 @@ return {
     ["mythic king pufferfish"] = {
         ["value"] = 0,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl king pufferfish"] = {
         ["value"] = 0,
@@ -5167,7 +5167,7 @@ return {
     ["mythic d0ggy1337"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl d0ggy1337"] = {
         ["value"] = 0,
@@ -5207,7 +5207,7 @@ return {
     ["mythic lord shock"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Very high"
     },
     ["mythic xl lord shock"] = {
         ["value"] = 0,
@@ -5880,12 +5880,12 @@ return {
         ["demand"] = "Medium"
     },
     ["the moon"] = {
-        ["value"] = 6000,
+        ["value"] = 7000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny the moon"] = {
-        ["value"] = 60000,
+        ["value"] = 70000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -5905,7 +5905,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic water serpent"] = {
-        ["value"] = 1250,
+        ["value"] = 2750,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -5915,7 +5915,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic water serpent"] = {
-        ["value"] = 12500,
+        ["value"] = 27500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -6415,12 +6415,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny beelzebub"] = {
-        ["value"] = 75000,
+        ["value"] = 85000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic beelzebub"] = {
-        ["value"] = 950000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -6440,12 +6440,12 @@ return {
         ["demand"] = "Medium"
     },
     ["dragonfruit"] = {
-        ["value"] = 85000,
+        ["value"] = 90000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic dragonfruit"] = {
-        ["value"] = 1050000,
+        ["value"] = 1300000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -6575,7 +6575,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic rigby"] = {
-        ["value"] = 250000,
+        ["value"] = 0,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Low"
     },
@@ -6700,7 +6700,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mint sundae champion"] = {
-        ["value"] = 8500,
+        ["value"] = 9000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -6715,7 +6715,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mint sundae champion"] = {
-        ["value"] = 37500,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -6760,12 +6760,12 @@ return {
         ["demand"] = "Medium"
     },
     ["everblaze"] = {
-        ["value"] = 50000,
+        ["value"] = 57500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic everblaze"] = {
-        ["value"] = 1050000,
+        ["value"] = 1250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -6775,7 +6775,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny everblaze"] = {
-        ["value"] = 225000,
+        ["value"] = 250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -6855,7 +6855,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic overlord plushie"] = {
-        ["value"] = 1350000,
+        ["value"] = 1375000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -6980,7 +6980,7 @@ return {
         ["demand"] = "Medium"
     },
     ["glyph warrior"] = {
-        ["value"] = 3750,
+        ["value"] = 5500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -6995,7 +6995,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny glyph warrior"] = {
-        ["value"] = 40000,
+        ["value"] = 65000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -7105,7 +7105,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic ancient one"] = {
-        ["value"] = 0,
+        ["value"] = 5000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -7120,7 +7120,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic ancient one"] = {
-        ["value"] = 0,
+        ["value"] = 50000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -7180,7 +7180,7 @@ return {
         ["demand"] = "Medium"
     },
     ["monolith"] = {
-        ["value"] = 13000,
+        ["value"] = 15000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7195,12 +7195,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny monolith"] = {
-        ["value"] = 60000,
+        ["value"] = 67500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic monolith"] = {
-        ["value"] = 1100000,
+        ["value"] = 1050000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -7240,7 +7240,7 @@ return {
         ["demand"] = "Medium"
     },
     ["chocolate sundae champion"] = {
-        ["value"] = 8500,
+        ["value"] = 9000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7255,7 +7255,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny chocolate sundae champion"] = {
-        ["value"] = 37500,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7280,7 +7280,7 @@ return {
         ["demand"] = "Medium"
     },
     ["strawberry sundae champion"] = {
-        ["value"] = 8500,
+        ["value"] = 9000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7305,7 +7305,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny strawberry sundae champion"] = {
-        ["value"] = 37500,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7320,7 +7320,7 @@ return {
         ["demand"] = "Medium"
     },
     ["vanilla sundae champion"] = {
-        ["value"] = 8500,
+        ["value"] = 9000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7345,7 +7345,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny vanilla sundae champion"] = {
-        ["value"] = 37500,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7380,7 +7380,7 @@ return {
         ["demand"] = "Medium"
     },
     ["infernal"] = {
-        ["value"] = 525000,
+        ["value"] = 575000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -7425,9 +7425,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic carrot pufferfish"] = {
-        ["value"] = 75000,
+        ["value"] = 0,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl carrot pufferfish"] = {
         ["value"] = 0,
@@ -7715,12 +7715,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny kraken"] = {
-        ["value"] = 75000,
+        ["value"] = 85000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic kraken"] = {
-        ["value"] = 850000,
+        ["value"] = 800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -7765,7 +7765,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic captain monkey"] = {
-        ["value"] = 8000,
+        ["value"] = 10000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -7840,7 +7840,7 @@ return {
         ["demand"] = "Medium"
     },
     ["captains curse"] = {
-        ["value"] = 150000,
+        ["value"] = 165000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -7900,12 +7900,12 @@ return {
         ["demand"] = "Medium"
     },
     ["air basilisk"] = {
-        ["value"] = 120000,
+        ["value"] = 135000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic air basilisk"] = {
-        ["value"] = 4750000,
+        ["value"] = 5000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7915,7 +7915,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny air basilisk"] = {
-        ["value"] = 450000,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7940,12 +7940,12 @@ return {
         ["demand"] = "Medium"
     },
     ["electric basilisk"] = {
-        ["value"] = 135000,
+        ["value"] = 150000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic electric basilisk"] = {
-        ["value"] = 4600000,
+        ["value"] = 4750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7955,7 +7955,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny electric basilisk"] = {
-        ["value"] = 525000,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7980,12 +7980,12 @@ return {
         ["demand"] = "Medium"
     },
     ["fire basilisk"] = {
-        ["value"] = 120000,
+        ["value"] = 140000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic fire basilisk"] = {
-        ["value"] = 4500000,
+        ["value"] = 5250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -7995,14 +7995,14 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny fire basilisk"] = {
-        ["value"] = 475000,
+        ["value"] = 525000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic fire basilisk"] = {
         ["value"] = 13000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["shiny mythic xl fire basilisk"] = {
         ["value"] = 0,
@@ -8020,12 +8020,12 @@ return {
         ["demand"] = "Medium"
     },
     ["ice basilisk"] = {
-        ["value"] = 125000,
+        ["value"] = 145000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic ice basilisk"] = {
-        ["value"] = 3750000,
+        ["value"] = 4250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -8035,7 +8035,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny ice basilisk"] = {
-        ["value"] = 500000,
+        ["value"] = 550000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -8075,7 +8075,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic shinigami"] = {
-        ["value"] = 1100000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -8100,14 +8100,14 @@ return {
         ["demand"] = "Medium"
     },
     ["immortal one"] = {
-        ["value"] = 350000,
+        ["value"] = 425000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic immortal one"] = {
-        ["value"] = 4000000,
+        ["value"] = 5750000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Very high"
     },
     ["mythic xl immortal one"] = {
         ["value"] = 0,
@@ -8115,14 +8115,14 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny immortal one"] = {
-        ["value"] = 900000,
+        ["value"] = 1100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic immortal one"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl immortal one"] = {
         ["value"] = 0,
@@ -8395,7 +8395,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic shimmering shard"] = {
-        ["value"] = 1150000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -8460,7 +8460,7 @@ return {
         ["demand"] = "Medium"
     },
     ["woman face god"] = {
-        ["value"] = 875000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -8660,7 +8660,7 @@ return {
         ["demand"] = "Medium"
     },
     ["stained star"] = {
-        ["value"] = 17500,
+        ["value"] = 20000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -8685,7 +8685,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny stained star"] = {
-        ["value"] = 150000,
+        ["value"] = 175000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -8720,7 +8720,7 @@ return {
         ["demand"] = "Medium"
     },
     ["void crystal dragon"] = {
-        ["value"] = 15000,
+        ["value"] = 17500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -8735,7 +8735,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic void crystal dragon"] = {
-        ["value"] = 750000,
+        ["value"] = 700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -8745,7 +8745,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny void crystal dragon"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -8820,7 +8820,7 @@ return {
         ["demand"] = "High"
     },
     ["shiny mythic golden retreiver"] = {
-        ["value"] = 1800000,
+        ["value"] = 1500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -9075,12 +9075,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny king slime"] = {
-        ["value"] = 85000,
+        ["value"] = 90000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic king slime"] = {
-        ["value"] = 1500000,
+        ["value"] = 1400000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -9100,12 +9100,12 @@ return {
         ["demand"] = "Medium"
     },
     ["true titan"] = {
-        ["value"] = 400000,
+        ["value"] = 475000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic true titan"] = {
-        ["value"] = 9000000,
+        ["value"] = 12500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Very high"
     },
@@ -9140,7 +9140,7 @@ return {
         ["demand"] = "Medium"
     },
     ["radiant crystal dragon"] = {
-        ["value"] = 15000,
+        ["value"] = 17500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9155,7 +9155,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic radiant crystal dragon"] = {
-        ["value"] = 750000,
+        ["value"] = 700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -9165,7 +9165,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny radiant crystal dragon"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9442,7 +9442,7 @@ return {
     ["bruh god"] = {
         ["value"] = 700000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic bruh god"] = {
         ["value"] = 0,
@@ -9487,7 +9487,7 @@ return {
     ["mythic dogcat"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl dogcat"] = {
         ["value"] = 0,
@@ -9520,7 +9520,7 @@ return {
         ["demand"] = "Medium"
     },
     ["pyramidium"] = {
-        ["value"] = 400000,
+        ["value"] = 450000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9545,9 +9545,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny pyramidium"] = {
-        ["value"] = 0,
+        ["value"] = 1400000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny xl pyramidium"] = {
         ["value"] = 0,
@@ -9605,7 +9605,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic starry kitsune"] = {
-        ["value"] = 0,
+        ["value"] = 225000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -9680,7 +9680,7 @@ return {
         ["demand"] = "Medium"
     },
     ["da cool trio"] = {
-        ["value"] = 325000,
+        ["value"] = 340000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9700,12 +9700,12 @@ return {
         ["demand"] = "Medium"
     },
     ["patriotic robot"] = {
-        ["value"] = 150000,
+        ["value"] = 160000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic patriotic robot"] = {
-        ["value"] = 0,
+        ["value"] = 2750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9725,7 +9725,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny patriotic robot"] = {
-        ["value"] = 450000,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9740,7 +9740,7 @@ return {
         ["demand"] = "Medium"
     },
     ["liberty"] = {
-        ["value"] = 13000,
+        ["value"] = 15000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9755,7 +9755,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny liberty"] = {
-        ["value"] = 60000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -9940,7 +9940,7 @@ return {
         ["demand"] = "Medium"
     },
     ["dementor tophat"] = {
-        ["value"] = 1500000,
+        ["value"] = 1700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -10240,7 +10240,7 @@ return {
         ["demand"] = "Medium"
     },
     ["soul of plant"] = {
-        ["value"] = 5000,
+        ["value"] = 8000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -10265,7 +10265,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny soul of plant"] = {
-        ["value"] = 60000,
+        ["value"] = 100000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -10280,7 +10280,7 @@ return {
         ["demand"] = "Medium"
     },
     ["lucid leaf"] = {
-        ["value"] = 120000,
+        ["value"] = 150000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -10325,7 +10325,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic lovely rose"] = {
-        ["value"] = 6500,
+        ["value"] = 7500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -10340,7 +10340,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic lovely rose"] = {
-        ["value"] = 62500,
+        ["value"] = 80000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -10405,9 +10405,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic geometric dominus"] = {
-        ["value"] = 0,
+        ["value"] = 350000,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl geometric dominus"] = {
         ["value"] = 0,
@@ -10445,7 +10445,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic king mush"] = {
-        ["value"] = 250000,
+        ["value"] = 260000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -10460,7 +10460,7 @@ return {
         ["demand"] = "High"
     },
     ["shiny mythic king mush"] = {
-        ["value"] = 825000,
+        ["value"] = 775000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -10487,7 +10487,7 @@ return {
     ["mythic frost defender"] = {
         ["value"] = 450000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl frost defender"] = {
         ["value"] = 0,
@@ -10495,12 +10495,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny frost defender"] = {
-        ["value"] = 110000,
+        ["value"] = 135000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic frost defender"] = {
-        ["value"] = 1900000,
+        ["value"] = 1800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -10520,14 +10520,14 @@ return {
         ["demand"] = "Medium"
     },
     ["dark guardian"] = {
-        ["value"] = 90000,
+        ["value"] = 95000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic dark guardian"] = {
-        ["value"] = 0,
+        ["value"] = 2000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl dark guardian"] = {
         ["value"] = 0,
@@ -10720,7 +10720,7 @@ return {
         ["demand"] = "Medium"
     },
     ["giant robot"] = {
-        ["value"] = 5250000,
+        ["value"] = 5750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Very high"
     },
@@ -10840,14 +10840,14 @@ return {
         ["demand"] = "Medium"
     },
     ["super trophy"] = {
-        ["value"] = 7000,
+        ["value"] = 7500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic super trophy"] = {
         ["value"] = 100000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl super trophy"] = {
         ["value"] = 0,
@@ -10865,7 +10865,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny super trophy"] = {
-        ["value"] = 30000,
+        ["value"] = 32500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -10940,7 +10940,7 @@ return {
         ["demand"] = "Medium"
     },
     ["diamond overlord"] = {
-        ["value"] = 1750,
+        ["value"] = 2000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -10955,7 +10955,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny diamond overlord"] = {
-        ["value"] = 9000,
+        ["value"] = 10000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -11020,7 +11020,7 @@ return {
         ["demand"] = "Medium"
     },
     ["fallen angel"] = {
-        ["value"] = 7500,
+        ["value"] = 8000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11035,9 +11035,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny fallen angel"] = {
-        ["value"] = 32500,
+        ["value"] = 35000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic fallen angel"] = {
         ["value"] = 415000,
@@ -11100,12 +11100,12 @@ return {
         ["demand"] = "Medium"
     },
     ["eternal star"] = {
-        ["value"] = 10000,
+        ["value"] = 11000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic eternal star"] = {
-        ["value"] = 150000,
+        ["value"] = 160000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11120,7 +11120,7 @@ return {
         ["demand"] = "High"
     },
     ["shiny mythic eternal star"] = {
-        ["value"] = 500000,
+        ["value"] = 525000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11145,7 +11145,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic king kitty"] = {
-        ["value"] = 825000,
+        ["value"] = 925000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11260,12 +11260,12 @@ return {
         ["demand"] = "Medium"
     },
     ["dowodle pile"] = {
-        ["value"] = 750,
+        ["value"] = 1250,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny dowodle pile"] = {
-        ["value"] = 7500,
+        ["value"] = 12500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -11285,7 +11285,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic destiny"] = {
-        ["value"] = 2100000,
+        ["value"] = 2600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11295,7 +11295,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny destiny"] = {
-        ["value"] = 190000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11420,7 +11420,7 @@ return {
         ["demand"] = "Medium"
     },
     ["super pufferfish"] = {
-        ["value"] = 550000,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11445,9 +11445,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny super pufferfish"] = {
-        ["value"] = 0,
+        ["value"] = 1400000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["shiny xl super pufferfish"] = {
         ["value"] = 0,
@@ -11460,12 +11460,12 @@ return {
         ["demand"] = "Medium"
     },
     ["owolord"] = {
-        ["value"] = 400000,
+        ["value"] = 450000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic owolord"] = {
-        ["value"] = 8500000,
+        ["value"] = 0,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11485,7 +11485,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny owolord"] = {
-        ["value"] = 1250000,
+        ["value"] = 1350000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11660,7 +11660,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shard"] = {
-        ["value"] = 1100000,
+        ["value"] = 1450000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11725,7 +11725,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny queen bee"] = {
-        ["value"] = 40000,
+        ["value"] = 50000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11780,7 +11780,7 @@ return {
         ["demand"] = "Medium"
     },
     ["cream snowcone"] = {
-        ["value"] = 15000,
+        ["value"] = 16000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11795,12 +11795,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny cream snowcone"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic cream snowcone"] = {
-        ["value"] = 1000000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -11945,7 +11945,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic false prophet"] = {
-        ["value"] = 2100000,
+        ["value"] = 2500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11955,7 +11955,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny false prophet"] = {
-        ["value"] = 190000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11980,7 +11980,7 @@ return {
         ["demand"] = "Medium"
     },
     ["cherry snowcone"] = {
-        ["value"] = 15000,
+        ["value"] = 16000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -11995,12 +11995,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny cherry snowcone"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic cherry snowcone"] = {
-        ["value"] = 1000000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -12060,7 +12060,7 @@ return {
         ["demand"] = "Medium"
     },
     ["strawberry snowcone"] = {
-        ["value"] = 15000,
+        ["value"] = 16000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -12075,7 +12075,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic strawberry snowcone"] = {
-        ["value"] = 1000000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -12085,7 +12085,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny strawberry snowcone"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -12100,12 +12100,12 @@ return {
         ["demand"] = "Medium"
     },
     ["fracture"] = {
-        ["value"] = 0,
+        ["value"] = 1250,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny fracture"] = {
-        ["value"] = 7500,
+        ["value"] = 12500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -12165,7 +12165,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic gumdrop king"] = {
-        ["value"] = 250000,
+        ["value"] = 260000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -12180,7 +12180,7 @@ return {
         ["demand"] = "High"
     },
     ["shiny mythic gumdrop king"] = {
-        ["value"] = 825000,
+        ["value"] = 775000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -12215,7 +12215,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny jelly overlord"] = {
-        ["value"] = 20000,
+        ["value"] = 25000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -12260,7 +12260,7 @@ return {
         ["demand"] = "High"
     },
     ["shiny mythic giant d.i.y robot"] = {
-        ["value"] = 800000,
+        ["value"] = 750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -12320,7 +12320,7 @@ return {
         ["demand"] = "Medium"
     },
     ["blue raspberry snowcone"] = {
-        ["value"] = 15000,
+        ["value"] = 16000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -12335,12 +12335,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny blue raspberry snowcone"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny mythic blue raspberry snowcone"] = {
-        ["value"] = 1000000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -12365,7 +12365,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic the shocklord"] = {
-        ["value"] = 35000,
+        ["value"] = 42500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -13240,12 +13240,12 @@ return {
         ["demand"] = "Medium"
     },
     ["sea star"] = {
-        ["value"] = 22500,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny sea star"] = {
-        ["value"] = 180000,
+        ["value"] = 240000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -13285,9 +13285,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic axolotl plushie"] = {
-        ["value"] = 0,
+        ["value"] = 75000,
         ["apiRarity"] = "Legendary",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl axolotl plushie"] = {
         ["value"] = 0,
@@ -13360,14 +13360,14 @@ return {
         ["demand"] = "Medium"
     },
     ["royal fishbowl"] = {
-        ["value"] = 245000,
+        ["value"] = 250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic royal fishbowl"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl royal fishbowl"] = {
         ["value"] = 0,
@@ -13700,14 +13700,14 @@ return {
         ["demand"] = "Medium"
     },
     ["gryphon"] = {
-        ["value"] = 20000,
+        ["value"] = 22500,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic gryphon"] = {
         ["value"] = 900000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl gryphon"] = {
         ["value"] = 0,
@@ -13845,7 +13845,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic koi"] = {
-        ["value"] = 6500000,
+        ["value"] = 7750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -13960,7 +13960,7 @@ return {
         ["demand"] = "Medium"
     },
     ["dark jellyfish"] = {
-        ["value"] = 2000,
+        ["value"] = 3250,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -13975,7 +13975,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny dark jellyfish"] = {
-        ["value"] = 25000,
+        ["value"] = 32500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -14280,12 +14280,12 @@ return {
         ["demand"] = "Medium"
     },
     ["danger of the abyss"] = {
-        ["value"] = 90000,
+        ["value"] = 100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic danger of the abyss"] = {
-        ["value"] = 4250000,
+        ["value"] = 5750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -14295,7 +14295,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny danger of the abyss"] = {
-        ["value"] = 500000,
+        ["value"] = 575000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -14325,7 +14325,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic prisma"] = {
-        ["value"] = 2100000,
+        ["value"] = 3200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -14425,7 +14425,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic duality"] = {
-        ["value"] = 15000,
+        ["value"] = 20000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -14480,12 +14480,12 @@ return {
         ["demand"] = "Medium"
     },
     ["eternity"] = {
-        ["value"] = 27500,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic eternity"] = {
-        ["value"] = 600000,
+        ["value"] = 750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -14700,7 +14700,7 @@ return {
         ["demand"] = "Medium"
     },
     ["parasol paladin"] = {
-        ["value"] = 475000,
+        ["value"] = 550000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -14725,7 +14725,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny parasol paladin"] = {
-        ["value"] = 1550000,
+        ["value"] = 1700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -14825,7 +14825,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic ethereal one"] = {
-        ["value"] = 9000000,
+        ["value"] = 11500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Very high"
     },
@@ -14940,12 +14940,12 @@ return {
         ["demand"] = "Medium"
     },
     ["missing object"] = {
-        ["value"] = 1000,
+        ["value"] = 2000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny missing object"] = {
-        ["value"] = 10000,
+        ["value"] = 20000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -15040,12 +15040,12 @@ return {
         ["demand"] = "Medium"
     },
     ["deception"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic deception"] = {
-        ["value"] = 3000000,
+        ["value"] = 3600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15055,7 +15055,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny deception"] = {
-        ["value"] = 150000,
+        ["value"] = 225000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -15080,7 +15080,7 @@ return {
         ["demand"] = "Medium"
     },
     ["galactic paladin"] = {
-        ["value"] = 10500,
+        ["value"] = 12500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15095,7 +15095,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny galactic paladin"] = {
-        ["value"] = 55000,
+        ["value"] = 60000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15120,7 +15120,7 @@ return {
         ["demand"] = "Medium"
     },
     ["hellfire"] = {
-        ["value"] = 1750,
+        ["value"] = 2250,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -15135,7 +15135,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny hellfire"] = {
-        ["value"] = 7000,
+        ["value"] = 10000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -15162,7 +15162,7 @@ return {
     ["venom moth"] = {
         ["value"] = 10000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny venom moth"] = {
         ["value"] = 80000,
@@ -15340,14 +15340,14 @@ return {
         ["demand"] = "Medium"
     },
     ["giant pixel robot"] = {
-        ["value"] = 2700000,
+        ["value"] = 3000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny giant pixel robot"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["shiny xl giant pixel robot"] = {
         ["value"] = 0,
@@ -15385,7 +15385,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny shadow leviathan"] = {
-        ["value"] = 950000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -15400,7 +15400,7 @@ return {
         ["demand"] = "Medium"
     },
     ["diamond ring"] = {
-        ["value"] = 2500,
+        ["value"] = 3000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -15415,7 +15415,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny diamond ring"] = {
-        ["value"] = 10000,
+        ["value"] = 12500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -15600,9 +15600,9 @@ return {
         ["demand"] = "Medium"
     },
     ["eternal cucumber"] = {
-        ["value"] = 750,
+        ["value"] = 1000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Low"
+        ["demand"] = "Medium"
     },
     ["mythic eternal cucumber"] = {
         ["value"] = 22500,
@@ -15615,7 +15615,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny eternal cucumber"] = {
-        ["value"] = 4500,
+        ["value"] = 6000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -15655,7 +15655,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mariposa"] = {
-        ["value"] = 135000,
+        ["value"] = 150000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15685,7 +15685,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic snake eyes"] = {
-        ["value"] = 750000,
+        ["value"] = 800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15720,12 +15720,12 @@ return {
         ["demand"] = "Medium"
     },
     ["illumination"] = {
-        ["value"] = 9000,
+        ["value"] = 10000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic illumination"] = {
-        ["value"] = 200000,
+        ["value"] = 210000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15735,7 +15735,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny illumination"] = {
-        ["value"] = 55000,
+        ["value"] = 60000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15800,7 +15800,7 @@ return {
         ["demand"] = "Medium"
     },
     ["rooted ratio"] = {
-        ["value"] = 1000,
+        ["value"] = 1500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -15825,7 +15825,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny rooted ratio"] = {
-        ["value"] = 8500,
+        ["value"] = 15000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -15840,12 +15840,12 @@ return {
         ["demand"] = "Medium"
     },
     ["the missing ones"] = {
-        ["value"] = 40000,
+        ["value"] = 42500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic the missing ones"] = {
-        ["value"] = 7000000,
+        ["value"] = 8500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -15865,7 +15865,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny the missing ones"] = {
-        ["value"] = 260000,
+        ["value"] = 300000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16060,12 +16060,12 @@ return {
         ["demand"] = "Medium"
     },
     ["equilibrium"] = {
-        ["value"] = 13000,
+        ["value"] = 15000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic equilibrium"] = {
-        ["value"] = 500000,
+        ["value"] = 575000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16075,7 +16075,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny equilibrium"] = {
-        ["value"] = 60000,
+        ["value"] = 70000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16185,7 +16185,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic bloomshifter"] = {
-        ["value"] = 4000000,
+        ["value"] = 4800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16195,7 +16195,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny bloomshifter"] = {
-        ["value"] = 0,
+        ["value"] = 700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -16340,12 +16340,12 @@ return {
         ["demand"] = "Medium"
     },
     ["soul heart"] = {
-        ["value"] = 40000,
+        ["value"] = 45000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic soul heart"] = {
-        ["value"] = 800000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16520,12 +16520,12 @@ return {
         ["demand"] = "Medium"
     },
     ["pot o gold"] = {
-        ["value"] = 85000,
+        ["value"] = 95000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic pot o gold"] = {
-        ["value"] = 2000000,
+        ["value"] = 3750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16537,7 +16537,7 @@ return {
     ["shiny mythic pot o gold"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl pot o gold"] = {
         ["value"] = 0,
@@ -16545,7 +16545,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny pot o gold"] = {
-        ["value"] = 200000,
+        ["value"] = 225000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -16725,7 +16725,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic trophy"] = {
-        ["value"] = 8250000,
+        ["value"] = 9500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16737,7 +16737,7 @@ return {
     ["shiny mythic trophy"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl trophy"] = {
         ["value"] = 0,
@@ -16905,7 +16905,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic big round"] = {
-        ["value"] = 3800000,
+        ["value"] = 4000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -16962,7 +16962,7 @@ return {
     ["isaacs creation"] = {
         ["value"] = 15000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny isaacs creation"] = {
         ["value"] = 120000,
@@ -17105,7 +17105,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic 1x1x1x1"] = {
-        ["value"] = 500000,
+        ["value"] = 475000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -17160,12 +17160,12 @@ return {
         ["demand"] = "Medium"
     },
     ["giant classic chicken"] = {
-        ["value"] = 45000,
+        ["value"] = 50000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic giant classic chicken"] = {
-        ["value"] = 3000000,
+        ["value"] = 4500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -17480,12 +17480,12 @@ return {
         ["demand"] = "Medium"
     },
     ["pixel heart"] = {
-        ["value"] = 3000,
+        ["value"] = 5000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
     ["shiny pixel heart"] = {
-        ["value"] = 30000,
+        ["value"] = 50000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -17640,12 +17640,12 @@ return {
         ["demand"] = "Medium"
     },
     ["forest light"] = {
-        ["value"] = 10000,
+        ["value"] = 12500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic forest light"] = {
-        ["value"] = 850000,
+        ["value"] = 875000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -17700,7 +17700,7 @@ return {
         ["demand"] = "Medium"
     },
     ["big leafy"] = {
-        ["value"] = 1250,
+        ["value"] = 1500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -17715,7 +17715,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny big leafy"] = {
-        ["value"] = 5000,
+        ["value"] = 6000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -17845,7 +17845,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic almighty pumpkin"] = {
-        ["value"] = 700000,
+        ["value"] = 800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -17900,12 +17900,12 @@ return {
         ["demand"] = "Medium"
     },
     ["pumpgeist"] = {
-        ["value"] = 8000,
+        ["value"] = 9000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic pumpgeist"] = {
-        ["value"] = 275000,
+        ["value"] = 325000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -17915,7 +17915,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic pumpgeist"] = {
-        ["value"] = 750000,
+        ["value"] = 800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -17925,7 +17925,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny pumpgeist"] = {
-        ["value"] = 45000,
+        ["value"] = 55000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -18080,14 +18080,14 @@ return {
         ["demand"] = "Medium"
     },
     ["fall pyramidium"] = {
-        ["value"] = 400000,
+        ["value"] = 425000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny fall pyramidium"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["shiny xl fall pyramidium"] = {
         ["value"] = 0,
@@ -18440,7 +18440,7 @@ return {
         ["demand"] = "Medium"
     },
     ["demon tree"] = {
-        ["value"] = 1000,
+        ["value"] = 1500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -18455,7 +18455,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny demon tree"] = {
-        ["value"] = 0,
+        ["value"] = 15000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -18500,7 +18500,7 @@ return {
         ["demand"] = "Medium"
     },
     ["candycorn shard"] = {
-        ["value"] = 5000,
+        ["value"] = 5500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -18515,7 +18515,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny candycorn shard"] = {
-        ["value"] = 20000,
+        ["value"] = 22500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -18560,7 +18560,7 @@ return {
         ["demand"] = "Medium"
     },
     ["maple divinity"] = {
-        ["value"] = 27500,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -18780,7 +18780,7 @@ return {
         ["demand"] = "Medium"
     },
     ["aureate koi"] = {
-        ["value"] = 3800000,
+        ["value"] = 4000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Very high"
     },
@@ -18797,7 +18797,7 @@ return {
     ["shiny aureate koi"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic aureate koi"] = {
         ["value"] = 0,
@@ -18820,7 +18820,7 @@ return {
         ["demand"] = "Medium"
     },
     ["frost sentinel"] = {
-        ["value"] = 175000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -18835,7 +18835,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny frost sentinel"] = {
-        ["value"] = 525000,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -18865,9 +18865,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic ultimate clover"] = {
-        ["value"] = 750000,
+        ["value"] = 800000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl ultimate clover"] = {
         ["value"] = 0,
@@ -18902,7 +18902,7 @@ return {
     ["autumn leaf"] = {
         ["value"] = 10000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny autumn leaf"] = {
         ["value"] = 80000,
@@ -19025,7 +19025,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic fox o wisp"] = {
-        ["value"] = 80000,
+        ["value"] = 120000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -19040,7 +19040,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic fox o wisp"] = {
-        ["value"] = 640000,
+        ["value"] = 960000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -19080,14 +19080,14 @@ return {
         ["demand"] = "Medium"
     },
     ["shattered soul"] = {
-        ["value"] = 225000,
+        ["value"] = 250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic shattered soul"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Very high"
     },
     ["mythic xl shattered soul"] = {
         ["value"] = 0,
@@ -19105,7 +19105,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny shattered soul"] = {
-        ["value"] = 800000,
+        ["value"] = 900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19182,7 +19182,7 @@ return {
     ["shiny mythic kitty pot"] = {
         ["value"] = 1200000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl kitty pot"] = {
         ["value"] = 0,
@@ -19225,7 +19225,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic super shock"] = {
-        ["value"] = 100000,
+        ["value"] = 105000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -19262,7 +19262,7 @@ return {
     ["nightmare guardian"] = {
         ["value"] = 13000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny nightmare guardian"] = {
         ["value"] = 104000,
@@ -19480,7 +19480,7 @@ return {
         ["demand"] = "Medium"
     },
     ["armageddon"] = {
-        ["value"] = 17000,
+        ["value"] = 20000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19685,7 +19685,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic angelic ghost spirit"] = {
-        ["value"] = 2000000,
+        ["value"] = 2800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19702,7 +19702,7 @@ return {
     ["shiny mythic angelic ghost spirit"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl angelic ghost spirit"] = {
         ["value"] = 0,
@@ -19725,7 +19725,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic demonic ghost spirit"] = {
-        ["value"] = 2000000,
+        ["value"] = 2800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19742,7 +19742,7 @@ return {
     ["shiny mythic demonic ghost spirit"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl demonic ghost spirit"] = {
         ["value"] = 0,
@@ -19760,12 +19760,12 @@ return {
         ["demand"] = "Medium"
     },
     ["sinister skull"] = {
-        ["value"] = 25000,
+        ["value"] = 27500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic sinister skull"] = {
-        ["value"] = 875000,
+        ["value"] = 1100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19775,7 +19775,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic sinister skull"] = {
-        ["value"] = 2000000,
+        ["value"] = 2200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19787,7 +19787,7 @@ return {
     ["shiny sinister skull"] = {
         ["value"] = 75000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny xl sinister skull"] = {
         ["value"] = 0,
@@ -19840,12 +19840,12 @@ return {
         ["demand"] = "Medium"
     },
     ["angelic skull"] = {
-        ["value"] = 25000,
+        ["value"] = 27500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic angelic skull"] = {
-        ["value"] = 875000,
+        ["value"] = 1050000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19857,10 +19857,10 @@ return {
     ["shiny angelic skull"] = {
         ["value"] = 75000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic angelic skull"] = {
-        ["value"] = 2000000,
+        ["value"] = 2200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19880,12 +19880,12 @@ return {
         ["demand"] = "Medium"
     },
     ["wolf skull"] = {
-        ["value"] = 25000,
+        ["value"] = 27500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic wolf skull"] = {
-        ["value"] = 825000,
+        ["value"] = 950000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19895,7 +19895,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic wolf skull"] = {
-        ["value"] = 1900000,
+        ["value"] = 2050000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19907,7 +19907,7 @@ return {
     ["shiny wolf skull"] = {
         ["value"] = 75000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny xl wolf skull"] = {
         ["value"] = 0,
@@ -19920,12 +19920,12 @@ return {
         ["demand"] = "Medium"
     },
     ["king skull"] = {
-        ["value"] = 25000,
+        ["value"] = 27500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic king skull"] = {
-        ["value"] = 850000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -19937,10 +19937,10 @@ return {
     ["shiny king skull"] = {
         ["value"] = 75000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic king skull"] = {
-        ["value"] = 1950000,
+        ["value"] = 2150000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -20140,12 +20140,12 @@ return {
         ["demand"] = "Medium"
     },
     ["guardian skull"] = {
-        ["value"] = 25000,
+        ["value"] = 27500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic guardian skull"] = {
-        ["value"] = 850000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -20157,10 +20157,10 @@ return {
     ["shiny guardian skull"] = {
         ["value"] = 75000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic guardian skull"] = {
-        ["value"] = 1950000,
+        ["value"] = 2150000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -20180,12 +20180,12 @@ return {
         ["demand"] = "Medium"
     },
     ["frankenbot"] = {
-        ["value"] = 7000,
+        ["value"] = 8000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic frankenbot"] = {
-        ["value"] = 200000,
+        ["value"] = 250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -20195,14 +20195,14 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny frankenbot"] = {
-        ["value"] = 25000,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny mythic frankenbot"] = {
         ["value"] = 450000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl frankenbot"] = {
         ["value"] = 0,
@@ -20420,12 +20420,12 @@ return {
         ["demand"] = "Medium"
     },
     ["rose koi"] = {
-        ["value"] = 550000,
+        ["value"] = 650000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic rose koi"] = {
-        ["value"] = 0,
+        ["value"] = 9500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -20437,7 +20437,7 @@ return {
     ["shiny mythic rose koi"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl rose koi"] = {
         ["value"] = 0,
@@ -20445,9 +20445,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny rose koi"] = {
-        ["value"] = 0,
+        ["value"] = 1500000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny xl rose koi"] = {
         ["value"] = 0,
@@ -20582,7 +20582,7 @@ return {
     ["neon robot"] = {
         ["value"] = 10000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny neon robot"] = {
         ["value"] = 80000,
@@ -20660,7 +20660,7 @@ return {
         ["demand"] = "Medium"
     },
     ["sinister lord"] = {
-        ["value"] = 1350000,
+        ["value"] = 1450000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -20780,12 +20780,12 @@ return {
         ["demand"] = "Medium"
     },
     ["ghosdeeri"] = {
-        ["value"] = 6500,
+        ["value"] = 7500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic ghosdeeri"] = {
-        ["value"] = 250000,
+        ["value"] = 275000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -20795,12 +20795,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny ghosdeeri"] = {
-        ["value"] = 24000,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny mythic ghosdeeri"] = {
-        ["value"] = 750000,
+        ["value"] = 800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -20840,7 +20840,7 @@ return {
         ["demand"] = "Medium"
     },
     ["poltergeist"] = {
-        ["value"] = 750,
+        ["value"] = 1000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -20865,7 +20865,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny poltergeist"] = {
-        ["value"] = 0,
+        ["value"] = 10000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -20965,9 +20965,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic ghost wisps"] = {
-        ["value"] = 1500000,
+        ["value"] = 1800000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl ghost wisps"] = {
         ["value"] = 0,
@@ -21065,7 +21065,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic angelic spirit"] = {
-        ["value"] = 700000,
+        ["value"] = 775000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -21075,7 +21075,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny angelic spirit"] = {
-        ["value"] = 110000,
+        ["value"] = 120000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -21100,7 +21100,7 @@ return {
         ["demand"] = "Medium"
     },
     ["sinister shard"] = {
-        ["value"] = 5250,
+        ["value"] = 6000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -21125,7 +21125,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny sinister shard"] = {
-        ["value"] = 20000,
+        ["value"] = 22500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -21342,7 +21342,7 @@ return {
     ["the dusekkar"] = {
         ["value"] = 11000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny the dusekkar"] = {
         ["value"] = 88000,
@@ -21365,7 +21365,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic witch rigby"] = {
-        ["value"] = 425000,
+        ["value"] = 450000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -21405,7 +21405,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic tainter spirit"] = {
-        ["value"] = 400000,
+        ["value"] = 475000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -21500,12 +21500,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og radiance"] = {
-        ["value"] = 300000,
+        ["value"] = 350000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny og radiance"] = {
-        ["value"] = 575000,
+        ["value"] = 650000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -21540,12 +21540,12 @@ return {
         ["demand"] = "Medium"
     },
     ["axolotl army"] = {
-        ["value"] = 20000,
+        ["value"] = 22500,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic axolotl army"] = {
-        ["value"] = 275000,
+        ["value"] = 285000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -21555,7 +21555,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny axolotl army"] = {
-        ["value"] = 72500,
+        ["value"] = 80000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -21580,7 +21580,7 @@ return {
         ["demand"] = "Medium"
     },
     ["king leviathan"] = {
-        ["value"] = 1300000,
+        ["value"] = 1400000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -21685,9 +21685,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic harmonic harp"] = {
-        ["value"] = 1850000,
+        ["value"] = 1750000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl harmonic harp"] = {
         ["value"] = 0,
@@ -21700,7 +21700,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic harmonic harp"] = {
-        ["value"] = 0,
+        ["value"] = 3500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -21862,7 +21862,7 @@ return {
     ["pumpkin-bot"] = {
         ["value"] = 11000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny pumpkin-bot"] = {
         ["value"] = 88000,
@@ -21905,7 +21905,7 @@ return {
         ["demand"] = "Low"
     },
     ["mythic dumb sinister lord"] = {
-        ["value"] = 275000,
+        ["value"] = 250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -21920,7 +21920,7 @@ return {
         ["demand"] = "Low"
     },
     ["shiny mythic dumb sinister lord"] = {
-        ["value"] = 0,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -22025,7 +22025,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic almighty hexarium"] = {
-        ["value"] = 500000,
+        ["value"] = 700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -22105,7 +22105,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og luminance"] = {
-        ["value"] = 700000,
+        ["value"] = 825000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -22140,12 +22140,12 @@ return {
         ["demand"] = "Medium"
     },
     ["radiant one"] = {
-        ["value"] = 75000,
+        ["value"] = 80000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic radiant one"] = {
-        ["value"] = 4750000,
+        ["value"] = 7250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -22165,7 +22165,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny radiant one"] = {
-        ["value"] = 160000,
+        ["value"] = 170000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -22180,14 +22180,14 @@ return {
         ["demand"] = "Medium"
     },
     ["all seeing eye"] = {
-        ["value"] = 1750000,
+        ["value"] = 1800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic all seeing eye"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl all seeing eye"] = {
         ["value"] = 0,
@@ -22240,12 +22240,12 @@ return {
         ["demand"] = "Medium"
     },
     ["whimsical fairy"] = {
-        ["value"] = 8000,
+        ["value"] = 9000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["shiny whimsical fairy"] = {
-        ["value"] = 64000,
+        ["value"] = 72000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -22265,9 +22265,9 @@ return {
         ["demand"] = "High"
     },
     ["mythic the puppeteer"] = {
-        ["value"] = 5000000,
+        ["value"] = 7250000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Very high"
     },
     ["mythic xl the puppeteer"] = {
         ["value"] = 0,
@@ -22285,7 +22285,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny the puppeteer"] = {
-        ["value"] = 675000,
+        ["value"] = 725000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -22340,7 +22340,7 @@ return {
         ["demand"] = "Medium"
     },
     ["harlequin"] = {
-        ["value"] = 2000,
+        ["value"] = 3000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -22355,7 +22355,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny harlequin"] = {
-        ["value"] = 8000,
+        ["value"] = 10000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -22562,7 +22562,7 @@ return {
     ["infernal revenant"] = {
         ["value"] = 14000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny infernal revenant"] = {
         ["value"] = 112000,
@@ -22600,12 +22600,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og electra hydra"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og electra hydra"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -22620,12 +22620,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og christmas elemental"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og christmas elemental"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -22640,12 +22640,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og dowodle"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og dowodle"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -22660,12 +22660,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og toxic elemental"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og toxic elemental"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -22680,12 +22680,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og dark serpent"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og dark serpent"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -22700,12 +22700,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og enraged phoenix"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og enraged phoenix"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -22720,12 +22720,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og beta tv"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og beta tv"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -22740,12 +22740,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og candy winged hydra"] = {
-        ["value"] = 3000,
+        ["value"] = 3500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
     ["shiny og candy winged hydra"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -23080,14 +23080,14 @@ return {
         ["demand"] = "Medium"
     },
     ["og chocolate sundae champion"] = {
-        ["value"] = 6500,
+        ["value"] = 7000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic og chocolate sundae champion"] = {
         ["value"] = 200000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl og chocolate sundae champion"] = {
         ["value"] = 0,
@@ -23105,7 +23105,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og chocolate sundae champion"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -23120,14 +23120,14 @@ return {
         ["demand"] = "Medium"
     },
     ["og mint sundae champion"] = {
-        ["value"] = 6500,
+        ["value"] = 7000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic og mint sundae champion"] = {
         ["value"] = 200000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl og mint sundae champion"] = {
         ["value"] = 0,
@@ -23145,7 +23145,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og mint sundae champion"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -23160,14 +23160,14 @@ return {
         ["demand"] = "Medium"
     },
     ["og vanilla sundae champion"] = {
-        ["value"] = 6500,
+        ["value"] = 7000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic og vanilla sundae champion"] = {
         ["value"] = 200000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl og vanilla sundae champion"] = {
         ["value"] = 0,
@@ -23185,7 +23185,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og vanilla sundae champion"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -23200,14 +23200,14 @@ return {
         ["demand"] = "Medium"
     },
     ["og strawberry sundae champion"] = {
-        ["value"] = 6500,
+        ["value"] = 7000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic og strawberry sundae champion"] = {
         ["value"] = 200000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl og strawberry sundae champion"] = {
         ["value"] = 0,
@@ -23225,7 +23225,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og strawberry sundae champion"] = {
-        ["value"] = 30000,
+        ["value"] = 35000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -23247,7 +23247,7 @@ return {
     ["mythic og dragonfruit"] = {
         ["value"] = 155000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl og dragonfruit"] = {
         ["value"] = 0,
@@ -23285,7 +23285,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og plasma wolflord"] = {
-        ["value"] = 350000,
+        ["value"] = 325000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -23325,7 +23325,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og shard"] = {
-        ["value"] = 800000,
+        ["value"] = 750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -23365,7 +23365,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic og giant robot"] = {
-        ["value"] = 12500000,
+        ["value"] = 15500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -23377,7 +23377,7 @@ return {
     ["shiny mythic og giant robot"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["shiny mythic xl og giant robot"] = {
         ["value"] = 0,
@@ -23445,7 +23445,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og diamond ring"] = {
-        ["value"] = 175000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -23480,12 +23480,12 @@ return {
         ["demand"] = "Medium"
     },
     ["67 god"] = {
-        ["value"] = 275000,
+        ["value"] = 240000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic 67 god"] = {
-        ["value"] = 3750000,
+        ["value"] = 4000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -23525,7 +23525,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic white swan"] = {
-        ["value"] = 325000,
+        ["value"] = 350000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -23602,7 +23602,7 @@ return {
     ["mystical galaxy"] = {
         ["value"] = 8000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mystical galaxy"] = {
         ["value"] = 64000,
@@ -23880,7 +23880,7 @@ return {
         ["demand"] = "Medium"
     },
     ["silly leviathan"] = {
-        ["value"] = 1450000,
+        ["value"] = 1550000,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "High"
     },
@@ -24005,7 +24005,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic shadow raven"] = {
-        ["value"] = 50000,
+        ["value"] = 60000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24015,7 +24015,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic shadow raven"] = {
-        ["value"] = 150000,
+        ["value"] = 175000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24085,7 +24085,7 @@ return {
         ["demand"] = "Low"
     },
     ["mythic grand guardian"] = {
-        ["value"] = 400000,
+        ["value"] = 450000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24160,7 +24160,7 @@ return {
         ["demand"] = "Medium"
     },
     ["og king kitty"] = {
-        ["value"] = 650000,
+        ["value"] = 675000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -24205,7 +24205,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og duality"] = {
-        ["value"] = 700000,
+        ["value"] = 650000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24215,9 +24215,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic og duality"] = {
-        ["value"] = 0,
+        ["value"] = 2000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl og duality"] = {
         ["value"] = 0,
@@ -24240,12 +24240,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og godly gem"] = {
-        ["value"] = 60000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic og godly gem"] = {
-        ["value"] = 2500000,
+        ["value"] = 3400000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -24257,7 +24257,7 @@ return {
     ["shiny mythic og godly gem"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl og godly gem"] = {
         ["value"] = 0,
@@ -24265,7 +24265,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og godly gem"] = {
-        ["value"] = 210000,
+        ["value"] = 225000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24365,7 +24365,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og air basilisk"] = {
-        ["value"] = 900000,
+        ["value"] = 1100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -24375,7 +24375,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic og air basilisk"] = {
-        ["value"] = 2500000,
+        ["value"] = 2750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24605,7 +24605,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og ice basilisk"] = {
-        ["value"] = 1500000,
+        ["value"] = 1600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -24645,7 +24645,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og electric basilisk"] = {
-        ["value"] = 925000,
+        ["value"] = 1150000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -24655,7 +24655,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic og electric basilisk"] = {
-        ["value"] = 0,
+        ["value"] = 2200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24725,7 +24725,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og fire basilisk"] = {
-        ["value"] = 900000,
+        ["value"] = 1100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -24735,7 +24735,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic og fire basilisk"] = {
-        ["value"] = 2500000,
+        ["value"] = 2750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -24805,7 +24805,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og koi"] = {
-        ["value"] = 210000,
+        ["value"] = 225000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -25045,7 +25045,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og angelic ghost spirit"] = {
-        ["value"] = 90000,
+        ["value"] = 95000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -25085,7 +25085,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og demonic ghost spirit"] = {
-        ["value"] = 90000,
+        ["value"] = 95000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -25125,7 +25125,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og radiant one"] = {
-        ["value"] = 950000,
+        ["value"] = 1450000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -25165,7 +25165,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic clockwork"] = {
-        ["value"] = 250000,
+        ["value"] = 275000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -25320,7 +25320,7 @@ return {
         ["demand"] = "Medium"
     },
     ["og shadow hunter"] = {
-        ["value"] = 750,
+        ["value"] = 1000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -25345,7 +25345,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og shadow hunter"] = {
-        ["value"] = 0,
+        ["value"] = 10000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -25365,7 +25365,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og cardinal bunny"] = {
-        ["value"] = 1100000,
+        ["value"] = 1550000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -25540,7 +25540,7 @@ return {
         ["demand"] = "Medium"
     },
     ["the infinity gem"] = {
-        ["value"] = 350000,
+        ["value"] = 370000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -25945,7 +25945,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og love thief"] = {
-        ["value"] = 1000000,
+        ["value"] = 1600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -25957,7 +25957,7 @@ return {
     ["shiny mythic og love thief"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl og love thief"] = {
         ["value"] = 0,
@@ -26005,7 +26005,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og godly shamrock"] = {
-        ["value"] = 90000,
+        ["value"] = 100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -26015,7 +26015,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic og godly shamrock"] = {
-        ["value"] = 300000,
+        ["value"] = 325000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -26040,12 +26040,12 @@ return {
         ["demand"] = "Medium"
     },
     ["og owolord"] = {
-        ["value"] = 8000,
+        ["value"] = 9000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic og owolord"] = {
-        ["value"] = 220000,
+        ["value"] = 235000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -26065,7 +26065,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og owolord"] = {
-        ["value"] = 35000,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -26122,7 +26122,7 @@ return {
     ["mega mech"] = {
         ["value"] = 20000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mega mech"] = {
         ["value"] = 160000,
@@ -26187,7 +26187,7 @@ return {
     ["mythic og lucky pyramidium"] = {
         ["value"] = 1700000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl og lucky pyramidium"] = {
         ["value"] = 0,
@@ -26195,7 +26195,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic og lucky pyramidium"] = {
-        ["value"] = 0,
+        ["value"] = 2750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -26260,12 +26260,12 @@ return {
         ["demand"] = "Medium"
     },
     ["fairylight kitsune"] = {
-        ["value"] = 75000,
+        ["value"] = 80000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny fairylight kitsune"] = {
-        ["value"] = 600000,
+        ["value"] = 640000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -26585,7 +26585,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic the cornucopia"] = {
-        ["value"] = 0,
+        ["value"] = 8000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -27082,7 +27082,7 @@ return {
     ["santas giftbag"] = {
         ["value"] = 35000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny santas giftbag"] = {
         ["value"] = 280000,
@@ -27142,7 +27142,7 @@ return {
     ["cursed king"] = {
         ["value"] = 11000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny cursed king"] = {
         ["value"] = 88000,
@@ -27360,7 +27360,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic flake spirit"] = {
-        ["value"] = 425000,
+        ["value"] = 450000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -27385,7 +27385,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic kuuhenki"] = {
-        ["value"] = 850000,
+        ["value"] = 925000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -27465,7 +27465,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og soulflake"] = {
-        ["value"] = 210000,
+        ["value"] = 225000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -27800,9 +27800,9 @@ return {
         ["demand"] = "Medium"
     },
     ["ancient frost leviathan"] = {
-        ["value"] = 150000,
+        ["value"] = 160000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Low"
+        ["demand"] = "Medium"
     },
     ["shiny ancient frost leviathan"] = {
         ["value"] = 0,
@@ -28102,7 +28102,7 @@ return {
     ["permafrost"] = {
         ["value"] = 20000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic permafrost"] = {
         ["value"] = 50000,
@@ -28502,7 +28502,7 @@ return {
     ["king bell"] = {
         ["value"] = 25000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic king bell"] = {
         ["value"] = 20000,
@@ -28540,12 +28540,12 @@ return {
         ["demand"] = "Medium"
     },
     ["morning star"] = {
-        ["value"] = 125000,
+        ["value"] = 130000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic morning star"] = {
-        ["value"] = 2400000,
+        ["value"] = 2900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -28557,7 +28557,7 @@ return {
     ["shiny morning star"] = {
         ["value"] = 350000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic morning star"] = {
         ["value"] = 0,
@@ -28580,7 +28580,7 @@ return {
         ["demand"] = "Medium"
     },
     ["archangel"] = {
-        ["value"] = 4000,
+        ["value"] = 5000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -28595,7 +28595,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny archangel"] = {
-        ["value"] = 12500,
+        ["value"] = 15000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -28645,9 +28645,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic frosted dogcat"] = {
-        ["value"] = 125000,
+        ["value"] = 150000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl frosted dogcat"] = {
         ["value"] = 0,
@@ -28660,7 +28660,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic frosted dogcat"] = {
-        ["value"] = 340000,
+        ["value"] = 375000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -28860,7 +28860,7 @@ return {
         ["demand"] = "Medium"
     },
     ["the leviathan"] = {
-        ["value"] = 3100000,
+        ["value"] = 3300000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -28942,7 +28942,7 @@ return {
     ["angelus"] = {
         ["value"] = 20000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic angelus"] = {
         ["value"] = 35000,
@@ -28982,7 +28982,7 @@ return {
     ["krampus"] = {
         ["value"] = 20000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny krampus"] = {
         ["value"] = 160000,
@@ -29042,7 +29042,7 @@ return {
     ["ornament round"] = {
         ["value"] = 10000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny ornament round"] = {
         ["value"] = 80000,
@@ -29100,12 +29100,12 @@ return {
         ["demand"] = "Medium"
     },
     ["magic marshmallow"] = {
-        ["value"] = 19000,
+        ["value"] = 20000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic magic marshmallow"] = {
-        ["value"] = 7000000,
+        ["value"] = 8750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -29115,7 +29115,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny magic marshmallow"] = {
-        ["value"] = 90000,
+        ["value"] = 100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -29140,7 +29140,7 @@ return {
         ["demand"] = "Medium"
     },
     ["merry marshmallow"] = {
-        ["value"] = 1000,
+        ["value"] = 1500,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -29155,7 +29155,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny merry marshmallow"] = {
-        ["value"] = 0,
+        ["value"] = 15000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     },
@@ -29225,7 +29225,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic cup o cocoa"] = {
-        ["value"] = 500000,
+        ["value"] = 475000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -29340,12 +29340,12 @@ return {
         ["demand"] = "Medium"
     },
     ["velvet wolflord"] = {
-        ["value"] = 5000,
+        ["value"] = 6000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic velvet wolflord"] = {
-        ["value"] = 155000,
+        ["value"] = 175000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -29355,7 +29355,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic velvet wolflord"] = {
-        ["value"] = 375000,
+        ["value"] = 425000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -29365,7 +29365,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny velvet wolflord"] = {
-        ["value"] = 15000,
+        ["value"] = 17500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -29380,12 +29380,12 @@ return {
         ["demand"] = "Medium"
     },
     ["peppermint leviathan"] = {
-        ["value"] = 52500,
+        ["value"] = 55000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic peppermint leviathan"] = {
-        ["value"] = 2200000,
+        ["value"] = 2700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -29405,7 +29405,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny peppermint leviathan"] = {
-        ["value"] = 175000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30025,7 +30025,7 @@ return {
         ["demand"] = "High"
     },
     ["mythic christmas robot"] = {
-        ["value"] = 6000000,
+        ["value"] = 7500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -30035,7 +30035,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny christmas robot"] = {
-        ["value"] = 650000,
+        ["value"] = 700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30075,7 +30075,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny joy candle"] = {
-        ["value"] = 12000,
+        ["value"] = 14000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30155,7 +30155,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny love candle"] = {
-        ["value"] = 12000,
+        ["value"] = 14000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30205,7 +30205,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny peace candle"] = {
-        ["value"] = 12000,
+        ["value"] = 14000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30220,12 +30220,12 @@ return {
         ["demand"] = "Medium"
     },
     ["iridescent catcher"] = {
-        ["value"] = 5000,
+        ["value"] = 6000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic iridescent catcher"] = {
-        ["value"] = 90000,
+        ["value"] = 100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -30240,7 +30240,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic iridescent catcher"] = {
-        ["value"] = 270000,
+        ["value"] = 300000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30275,7 +30275,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny hope candle"] = {
-        ["value"] = 12000,
+        ["value"] = 14000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30445,7 +30445,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic heavenly poinsettia"] = {
-        ["value"] = 2050000,
+        ["value"] = 2250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -30457,7 +30457,7 @@ return {
     ["shiny heavenly poinsettia"] = {
         ["value"] = 160000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic heavenly poinsettia"] = {
         ["value"] = 0,
@@ -30485,9 +30485,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic northern star"] = {
-        ["value"] = 130000,
+        ["value"] = 170000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl northern star"] = {
         ["value"] = 0,
@@ -30495,7 +30495,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic northern star"] = {
-        ["value"] = 350000,
+        ["value"] = 425000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30525,7 +30525,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic soulflake"] = {
-        ["value"] = 425000,
+        ["value"] = 400000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -30535,7 +30535,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic soulflake"] = {
-        ["value"] = 800000,
+        ["value"] = 750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -30785,7 +30785,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic peppermint shard"] = {
-        ["value"] = 525000,
+        ["value"] = 550000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -30980,7 +30980,7 @@ return {
         ["demand"] = "Medium"
     },
     ["blizzard dementor"] = {
-        ["value"] = 1700000,
+        ["value"] = 1850000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -31220,7 +31220,7 @@ return {
         ["demand"] = "Medium"
     },
     ["giant snowman"] = {
-        ["value"] = 3000,
+        ["value"] = 4000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31235,7 +31235,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny giant snowman"] = {
-        ["value"] = 10000,
+        ["value"] = 12000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31262,7 +31262,7 @@ return {
     ["frigid blade"] = {
         ["value"] = 20000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic frigid blade"] = {
         ["value"] = 50000,
@@ -31325,7 +31325,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic sea chime"] = {
-        ["value"] = 250000,
+        ["value"] = 225000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31335,7 +31335,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic sea chime"] = {
-        ["value"] = 625000,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31360,7 +31360,7 @@ return {
         ["demand"] = "Medium"
     },
     ["auronium"] = {
-        ["value"] = 100000,
+        ["value"] = 95000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31375,14 +31375,14 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny auronium"] = {
-        ["value"] = 275000,
+        ["value"] = 260000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny mythic auronium"] = {
         ["value"] = 1750000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl auronium"] = {
         ["value"] = 0,
@@ -31400,12 +31400,12 @@ return {
         ["demand"] = "Medium"
     },
     ["festive deity"] = {
-        ["value"] = 95000,
+        ["value"] = 85000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic festive deity"] = {
-        ["value"] = 1850000,
+        ["value"] = 2000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -31415,14 +31415,14 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny festive deity"] = {
-        ["value"] = 260000,
+        ["value"] = 250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny mythic festive deity"] = {
         ["value"] = 4500000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl festive deity"] = {
         ["value"] = 0,
@@ -31440,14 +31440,14 @@ return {
         ["demand"] = "Medium"
     },
     ["christmas tree"] = {
-        ["value"] = 5000,
+        ["value"] = 6000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic christmas tree"] = {
-        ["value"] = 125000,
+        ["value"] = 150000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl christmas tree"] = {
         ["value"] = 0,
@@ -31455,12 +31455,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny christmas tree"] = {
-        ["value"] = 15000,
+        ["value"] = 17500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny mythic christmas tree"] = {
-        ["value"] = 340000,
+        ["value"] = 375000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31485,7 +31485,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic mistletoe fairy"] = {
-        ["value"] = 275000,
+        ["value"] = 270000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31745,7 +31745,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic frosty lord shock"] = {
-        ["value"] = 450000,
+        ["value"] = 415000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31760,7 +31760,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic frosty lord shock"] = {
-        ["value"] = 800000,
+        ["value"] = 750000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -31885,7 +31885,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic frosty one"] = {
-        ["value"] = 90000,
+        ["value"] = 100000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -31925,7 +31925,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic frost pyramidium"] = {
-        ["value"] = 80000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -32080,7 +32080,7 @@ return {
         ["demand"] = "Medium"
     },
     ["painted daze"] = {
-        ["value"] = 55000,
+        ["value"] = 50000,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "Low"
     },
@@ -32225,7 +32225,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic new years champion"] = {
-        ["value"] = 1400000,
+        ["value"] = 1900000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -32385,7 +32385,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic prosperity"] = {
-        ["value"] = 275000,
+        ["value"] = 270000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -32545,7 +32545,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic dark prophet"] = {
-        ["value"] = 80000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -32700,14 +32700,14 @@ return {
         ["demand"] = "Medium"
     },
     ["the flawless"] = {
-        ["value"] = 125000,
+        ["value"] = 110000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic the flawless"] = {
         ["value"] = 2200000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl the flawless"] = {
         ["value"] = 0,
@@ -32740,14 +32740,14 @@ return {
         ["demand"] = "Medium"
     },
     ["colossal kraken"] = {
-        ["value"] = 200000,
+        ["value"] = 180000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic colossal kraken"] = {
-        ["value"] = 3500000,
+        ["value"] = 3000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl colossal kraken"] = {
         ["value"] = 0,
@@ -32780,14 +32780,14 @@ return {
         ["demand"] = "Medium"
     },
     ["super crimson bloodmoon"] = {
-        ["value"] = 130000,
+        ["value"] = 115000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic super crimson bloodmoon"] = {
         ["value"] = 2100000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl super crimson bloodmoon"] = {
         ["value"] = 0,
@@ -32820,14 +32820,14 @@ return {
         ["demand"] = "Medium"
     },
     ["bubble"] = {
-        ["value"] = 120000,
+        ["value"] = 115000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic bubble"] = {
         ["value"] = 2100000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl bubble"] = {
         ["value"] = 0,
@@ -32860,14 +32860,14 @@ return {
         ["demand"] = "Medium"
     },
     ["radiant challenger"] = {
-        ["value"] = 180000,
+        ["value"] = 160000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic radiant challenger"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Low"
     },
     ["mythic xl radiant challenger"] = {
         ["value"] = 0,
@@ -33025,7 +33025,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic forest drifter"] = {
-        ["value"] = 9000000,
+        ["value"] = 11000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -33122,7 +33122,7 @@ return {
     ["harmonic lily"] = {
         ["value"] = 20000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic harmonic lily"] = {
         ["value"] = 60000,
@@ -33245,7 +33245,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic witch of the woods"] = {
-        ["value"] = 1200000,
+        ["value"] = 1500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -33280,7 +33280,7 @@ return {
         ["demand"] = "Medium"
     },
     ["2026 kitsune"] = {
-        ["value"] = 60000,
+        ["value"] = 50000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -33290,14 +33290,14 @@ return {
         ["demand"] = "Low"
     },
     ["shiny xl 2026 kitsune"] = {
-        ["value"] = 360000,
+        ["value"] = 320000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["xl 2026 kitsune"] = {
-        ["value"] = 45000,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["festive basket"] = {
         ["value"] = 550000,
@@ -33305,7 +33305,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic festive basket"] = {
-        ["value"] = 10500000,
+        ["value"] = 12000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -33605,9 +33605,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic og new years champion"] = {
-        ["value"] = 2050000,
+        ["value"] = 2300000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl og new years champion"] = {
         ["value"] = 0,
@@ -33625,7 +33625,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og new years champion"] = {
-        ["value"] = 275000,
+        ["value"] = 300000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -33647,7 +33647,7 @@ return {
     ["mythic aurora guardian"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl aurora guardian"] = {
         ["value"] = 0,
@@ -33687,7 +33687,7 @@ return {
     ["mythic og infinity gem"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl og infinity gem"] = {
         ["value"] = 0,
@@ -33760,12 +33760,12 @@ return {
         ["demand"] = "Medium"
     },
     ["nexus"] = {
-        ["value"] = 90000,
+        ["value"] = 85000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic nexus"] = {
-        ["value"] = 950000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -33800,12 +33800,12 @@ return {
         ["demand"] = "Medium"
     },
     ["chroma star"] = {
-        ["value"] = 70000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic chroma star"] = {
-        ["value"] = 850000,
+        ["value"] = 800000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -33815,7 +33815,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny chroma star"] = {
-        ["value"] = 225000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -33845,7 +33845,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic serendipity"] = {
-        ["value"] = 4250000,
+        ["value"] = 5200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -33857,7 +33857,7 @@ return {
     ["shiny mythic serendipity"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl serendipity"] = {
         ["value"] = 0,
@@ -33882,7 +33882,7 @@ return {
     ["balloon doggy"] = {
         ["value"] = 17500,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny balloon doggy"] = {
         ["value"] = 140000,
@@ -34025,7 +34025,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic festival one"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -34040,7 +34040,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic festival one"] = {
-        ["value"] = 300000,
+        ["value"] = 275000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -34180,7 +34180,7 @@ return {
         ["demand"] = "Medium"
     },
     ["fancy dragon plushie"] = {
-        ["value"] = 65000,
+        ["value"] = 50000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -34665,7 +34665,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic azure fate"] = {
-        ["value"] = 525000,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -34700,7 +34700,7 @@ return {
         ["demand"] = "Medium"
     },
     ["leviathan tophat"] = {
-        ["value"] = 70000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -34740,7 +34740,7 @@ return {
         ["demand"] = "Medium"
     },
     ["avernus tophat"] = {
-        ["value"] = 70000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -34780,14 +34780,14 @@ return {
         ["demand"] = "Medium"
     },
     ["giant chocolate chicken tophat"] = {
-        ["value"] = 70000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic giant chocolate chicken tophat"] = {
         ["value"] = 1800000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl giant chocolate chicken tophat"] = {
         ["value"] = 0,
@@ -34825,7 +34825,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic seraph tophat"] = {
-        ["value"] = 650000,
+        ["value"] = 575000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -34835,9 +34835,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic seraph tophat"] = {
-        ["value"] = 1300000,
+        ["value"] = 1100000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl seraph tophat"] = {
         ["value"] = 0,
@@ -34860,7 +34860,7 @@ return {
         ["demand"] = "Medium"
     },
     ["silly doggy tophat"] = {
-        ["value"] = 70000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -34905,9 +34905,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic pufferfish tophat"] = {
-        ["value"] = 550000,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl pufferfish tophat"] = {
         ["value"] = 0,
@@ -34915,9 +34915,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic pufferfish tophat"] = {
-        ["value"] = 1100000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl pufferfish tophat"] = {
         ["value"] = 0,
@@ -34945,7 +34945,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic pig tophat"] = {
-        ["value"] = 75000,
+        ["value"] = 70000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -34955,9 +34955,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic pig tophat"] = {
-        ["value"] = 225000,
+        ["value"] = 210000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl pig tophat"] = {
         ["value"] = 0,
@@ -34985,7 +34985,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic dinosaur tophat"] = {
-        ["value"] = 75000,
+        ["value"] = 70000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -35000,9 +35000,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic dinosaur tophat"] = {
-        ["value"] = 225000,
+        ["value"] = 210000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl dinosaur tophat"] = {
         ["value"] = 0,
@@ -35025,9 +35025,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic bruh tophat"] = {
-        ["value"] = 550000,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl bruh tophat"] = {
         ["value"] = 0,
@@ -35040,9 +35040,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic bruh tophat"] = {
-        ["value"] = 1100000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl bruh tophat"] = {
         ["value"] = 0,
@@ -35065,7 +35065,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic deer tophat"] = {
-        ["value"] = 75000,
+        ["value"] = 70000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -35080,9 +35080,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic deer tophat"] = {
-        ["value"] = 225000,
+        ["value"] = 210000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl deer tophat"] = {
         ["value"] = 0,
@@ -35100,7 +35100,7 @@ return {
         ["demand"] = "Medium"
     },
     ["bubble circus show"] = {
-        ["value"] = 425000,
+        ["value"] = 400000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -35115,7 +35115,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny bubble circus show"] = {
-        ["value"] = 1100000,
+        ["value"] = 950000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -35240,7 +35240,7 @@ return {
         ["demand"] = "Medium"
     },
     ["symphonic hieromphant"] = {
-        ["value"] = 55000,
+        ["value"] = 50000,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "Low"
     },
@@ -35460,12 +35460,12 @@ return {
         ["demand"] = "Medium"
     },
     ["dark jester"] = {
-        ["value"] = 90000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
     ["mythic dark jester"] = {
-        ["value"] = 80000,
+        ["value"] = 65000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -35542,7 +35542,7 @@ return {
     ["dark gryphon"] = {
         ["value"] = 25000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic dark gryphon"] = {
         ["value"] = 60000,
@@ -35725,7 +35725,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic ice cream fairy"] = {
-        ["value"] = 650000,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -35805,7 +35805,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic twilight opal"] = {
-        ["value"] = 700000,
+        ["value"] = 650000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -35845,7 +35845,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic super tophat stack"] = {
-        ["value"] = 0,
+        ["value"] = 400000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -35885,7 +35885,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic starcaster"] = {
-        ["value"] = 650000,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -36100,7 +36100,7 @@ return {
         ["demand"] = "Medium"
     },
     ["stellar acheron"] = {
-        ["value"] = 5000,
+        ["value"] = 6000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -36125,7 +36125,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny stellar acheron"] = {
-        ["value"] = 20000,
+        ["value"] = 25000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -36220,9 +36220,9 @@ return {
         ["demand"] = "Medium"
     },
     ["circus monster"] = {
-        ["value"] = 4750000,
+        ["value"] = 4850000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Very high"
+        ["demand"] = "High"
     },
     ["mythic circus monster"] = {
         ["value"] = 0,
@@ -36360,7 +36360,7 @@ return {
         ["demand"] = "Medium"
     },
     ["chroma defender"] = {
-        ["value"] = 70000,
+        ["value"] = 60000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -36375,14 +36375,14 @@ return {
         ["demand"] = "Low"
     },
     ["xl chroma defender"] = {
-        ["value"] = 100000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
     ["retro sylentlys pet"] = {
         ["value"] = 35000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic retro sylentlys pet"] = {
         ["value"] = 0,
@@ -36420,7 +36420,7 @@ return {
         ["demand"] = "Medium"
     },
     ["bot in the box"] = {
-        ["value"] = 55000,
+        ["value"] = 45000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -36485,7 +36485,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic okami spirit"] = {
-        ["value"] = 2600000,
+        ["value"] = 3000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -36505,7 +36505,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny okami spirit"] = {
-        ["value"] = 230000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -37105,7 +37105,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic floral dogcat"] = {
-        ["value"] = 4250000,
+        ["value"] = 6000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -37285,7 +37285,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic merry-go hound"] = {
-        ["value"] = 175000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -37365,7 +37365,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic manticore"] = {
-        ["value"] = 600000,
+        ["value"] = 550000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -37380,9 +37380,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic manticore"] = {
-        ["value"] = 1200000,
+        ["value"] = 1100000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl manticore"] = {
         ["value"] = 0,
@@ -37420,9 +37420,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic devils skull"] = {
-        ["value"] = 1200000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl devils skull"] = {
         ["value"] = 0,
@@ -37645,7 +37645,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic supreme seraphim"] = {
-        ["value"] = 6500000,
+        ["value"] = 7250000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -37745,9 +37745,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic reincarnation"] = {
-        ["value"] = 700000,
+        ["value"] = 750000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl reincarnation"] = {
         ["value"] = 0,
@@ -37840,7 +37840,7 @@ return {
         ["demand"] = "Medium"
     },
     ["divine one"] = {
-        ["value"] = 90000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -37860,7 +37860,7 @@ return {
         ["demand"] = "Medium"
     },
     ["hellish one"] = {
-        ["value"] = 90000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -37882,7 +37882,7 @@ return {
     ["karma"] = {
         ["value"] = 50000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny karma"] = {
         ["value"] = 0,
@@ -37982,7 +37982,7 @@ return {
     ["pure guard"] = {
         ["value"] = 30000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny pure guard"] = {
         ["value"] = 240000,
@@ -38045,9 +38045,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic synthesis"] = {
-        ["value"] = 15000,
+        ["value"] = 20000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Low"
+        ["demand"] = "Medium"
     },
     ["mythic xl synthesis"] = {
         ["value"] = 0,
@@ -38055,7 +38055,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic synthesis"] = {
-        ["value"] = 0,
+        ["value"] = 160000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -38080,14 +38080,14 @@ return {
         ["demand"] = "Medium"
     },
     ["equipoise"] = {
-        ["value"] = 975000,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic equipoise"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl equipoise"] = {
         ["value"] = 0,
@@ -38125,7 +38125,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic inferno gem"] = {
-        ["value"] = 4250000,
+        ["value"] = 4550000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -38180,7 +38180,7 @@ return {
         ["demand"] = "Medium"
     },
     ["bubblegum pegasus"] = {
-        ["value"] = 0,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -38220,7 +38220,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mirror gem"] = {
-        ["value"] = 500000,
+        ["value"] = 525000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -38242,7 +38242,7 @@ return {
     ["shiny mythic mirror gem"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny mythic xl mirror gem"] = {
         ["value"] = 0,
@@ -38300,12 +38300,12 @@ return {
         ["demand"] = "Medium"
     },
     ["valentium"] = {
-        ["value"] = 175000,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic valentium"] = {
-        ["value"] = 2100000,
+        ["value"] = 2200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -38315,7 +38315,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic valentium"] = {
-        ["value"] = 0,
+        ["value"] = 6000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -38325,7 +38325,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny valentium"] = {
-        ["value"] = 400000,
+        ["value"] = 425000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -38345,7 +38345,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic dark seer"] = {
-        ["value"] = 0,
+        ["value"] = 300000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -38382,7 +38382,7 @@ return {
     ["twitch defender"] = {
         ["value"] = 12500,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny twitch defender"] = {
         ["value"] = 100000,
@@ -38447,7 +38447,7 @@ return {
     ["mythic love basilisk"] = {
         ["value"] = 115000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl love basilisk"] = {
         ["value"] = 0,
@@ -38462,7 +38462,7 @@ return {
     ["shiny mythic love basilisk"] = {
         ["value"] = 920000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl love basilisk"] = {
         ["value"] = 0,
@@ -38562,7 +38562,7 @@ return {
     ["super soul heart"] = {
         ["value"] = 50000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny super soul heart"] = {
         ["value"] = 0,
@@ -38642,7 +38642,7 @@ return {
     ["que fofo face god"] = {
         ["value"] = 3800000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["shiny que fofo face god"] = {
         ["value"] = 0,
@@ -38885,9 +38885,9 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic amour archer"] = {
-        ["value"] = 800000,
+        ["value"] = 825000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["mythic xl amour archer"] = {
         ["value"] = 0,
@@ -38940,12 +38940,12 @@ return {
         ["demand"] = "Medium"
     },
     ["super leviathan"] = {
-        ["value"] = 60000,
+        ["value"] = 42500,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "Low"
     },
     ["mythic super leviathan"] = {
-        ["value"] = 600000,
+        ["value"] = 350000,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "Medium"
     },
@@ -38965,7 +38965,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny super leviathan"] = {
-        ["value"] = 175000,
+        ["value"] = 145000,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "Low"
     },
@@ -38980,7 +38980,7 @@ return {
         ["demand"] = "Medium"
     },
     ["super radiant one"] = {
-        ["value"] = 750,
+        ["value"] = 300,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "Low"
     },
@@ -39005,7 +39005,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny super radiant one"] = {
-        ["value"] = 2500,
+        ["value"] = 1000,
         ["apiRarity"] = "AA-Secret",
         ["demand"] = "Low"
     },
@@ -39220,12 +39220,12 @@ return {
         ["demand"] = "Medium"
     },
     ["uwulord"] = {
-        ["value"] = 1500,
+        ["value"] = 500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic uwulord"] = {
-        ["value"] = 0,
+        ["value"] = 10000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -39235,7 +39235,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic uwulord"] = {
-        ["value"] = 0,
+        ["value"] = 60000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -39245,7 +39245,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny uwulord"] = {
-        ["value"] = 4500,
+        ["value"] = 2000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -39260,14 +39260,14 @@ return {
         ["demand"] = "Medium"
     },
     ["seraphim"] = {
-        ["value"] = 250,
+        ["value"] = 200,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
     ["mythic seraphim"] = {
-        ["value"] = 0,
+        ["value"] = 3000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl seraphim"] = {
         ["value"] = 0,
@@ -39275,9 +39275,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic seraphim"] = {
-        ["value"] = 0,
+        ["value"] = 10000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl seraphim"] = {
         ["value"] = 0,
@@ -39285,7 +39285,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny seraphim"] = {
-        ["value"] = 1000,
+        ["value"] = 500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -39300,14 +39300,14 @@ return {
         ["demand"] = "Medium"
     },
     ["the eternity"] = {
-        ["value"] = 750,
+        ["value"] = 300,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
     ["mythic the eternity"] = {
-        ["value"] = 0,
+        ["value"] = 6500,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl the eternity"] = {
         ["value"] = 0,
@@ -39315,9 +39315,9 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic the eternity"] = {
-        ["value"] = 0,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl the eternity"] = {
         ["value"] = 0,
@@ -39325,7 +39325,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny the eternity"] = {
-        ["value"] = 2000,
+        ["value"] = 1000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
@@ -39345,7 +39345,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic rainbow pyramidium"] = {
-        ["value"] = 70000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -39385,9 +39385,9 @@ return {
         ["demand"] = "Low"
     },
     ["mythic giant neon elemental"] = {
-        ["value"] = 0,
+        ["value"] = 1000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic xl giant neon elemental"] = {
         ["value"] = 0,
@@ -39395,14 +39395,14 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny giant neon elemental"] = {
-        ["value"] = 400,
+        ["value"] = 200,
         ["apiRarity"] = "Secret",
         ["demand"] = "Low"
     },
     ["shiny mythic giant neon elemental"] = {
-        ["value"] = 0,
+        ["value"] = 3000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["shiny mythic xl giant neon elemental"] = {
         ["value"] = 0,
@@ -39500,7 +39500,7 @@ return {
         ["demand"] = "Medium"
     },
     ["elegant sakura"] = {
-        ["value"] = 0,
+        ["value"] = 100000,
         ["apiRarity"] = "Legendary",
         ["demand"] = "High"
     },
@@ -39540,14 +39540,14 @@ return {
         ["demand"] = "Medium"
     },
     ["sakura specter"] = {
-        ["value"] = 2100000,
+        ["value"] = 2500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic sakura specter"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl sakura specter"] = {
         ["value"] = 0,
@@ -39660,12 +39660,12 @@ return {
         ["demand"] = "Medium"
     },
     ["sakuralord"] = {
-        ["value"] = 17500,
+        ["value"] = 15000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic sakuralord"] = {
-        ["value"] = 0,
+        ["value"] = 700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -39700,7 +39700,7 @@ return {
         ["demand"] = "Medium"
     },
     ["blossom chime"] = {
-        ["value"] = 50000,
+        ["value"] = 45000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -39740,12 +39740,12 @@ return {
         ["demand"] = "Medium"
     },
     ["giant kitsune"] = {
-        ["value"] = 0,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny giant kitsune"] = {
-        ["value"] = 0,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -39880,9 +39880,9 @@ return {
         ["demand"] = "Medium"
     },
     ["the dark tyrant"] = {
-        ["value"] = 0,
+        ["value"] = 850000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic the dark tyrant"] = {
         ["value"] = 0,
@@ -39905,7 +39905,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny the dark tyrant"] = {
-        ["value"] = 0,
+        ["value"] = 1700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40000,14 +40000,14 @@ return {
         ["demand"] = "Medium"
     },
     ["dark basilisk"] = {
-        ["value"] = 35000,
+        ["value"] = 60000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
     ["mythic dark basilisk"] = {
-        ["value"] = 0,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl dark basilisk"] = {
         ["value"] = 0,
@@ -40015,7 +40015,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny dark basilisk"] = {
-        ["value"] = 80000,
+        ["value"] = 150000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -40080,14 +40080,14 @@ return {
         ["demand"] = "Medium"
     },
     ["memory of remembrance"] = {
-        ["value"] = 150000,
+        ["value"] = 130000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic memory of remembrance"] = {
-        ["value"] = 1300000,
+        ["value"] = 1700000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl memory of remembrance"] = {
         ["value"] = 0,
@@ -40325,7 +40325,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic queen of thorns"] = {
-        ["value"] = 325000,
+        ["value"] = 350000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40360,7 +40360,7 @@ return {
         ["demand"] = "Medium"
     },
     ["the love thief"] = {
-        ["value"] = 1800000,
+        ["value"] = 2000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -40377,7 +40377,7 @@ return {
     ["shiny mythic the love thief"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["shiny mythic xl the love thief"] = {
         ["value"] = 0,
@@ -40402,7 +40402,7 @@ return {
     ["rainbow gryphon"] = {
         ["value"] = 35000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "Low"
     },
     ["mythic rainbow gryphon"] = {
         ["value"] = 65000,
@@ -40440,7 +40440,7 @@ return {
         ["demand"] = "Medium"
     },
     ["wealthy trio"] = {
-        ["value"] = 100000,
+        ["value"] = 80000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40480,7 +40480,7 @@ return {
         ["demand"] = "Medium"
     },
     ["egg trophy"] = {
-        ["value"] = 90000,
+        ["value"] = 75000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40520,12 +40520,12 @@ return {
         ["demand"] = "Medium"
     },
     ["giant crescent empress"] = {
-        ["value"] = 80000,
+        ["value"] = 70000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["mythic giant crescent empress"] = {
-        ["value"] = 0,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40560,7 +40560,7 @@ return {
         ["demand"] = "Medium"
     },
     ["all-seeing overseer"] = {
-        ["value"] = 90000,
+        ["value"] = 70000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40620,14 +40620,14 @@ return {
         ["demand"] = "Medium"
     },
     ["selenic paladin"] = {
-        ["value"] = 0,
+        ["value"] = 225000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic selenic paladin"] = {
-        ["value"] = 0,
+        ["value"] = 5000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl selenic paladin"] = {
         ["value"] = 0,
@@ -40645,7 +40645,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny selenic paladin"] = {
-        ["value"] = 0,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40660,7 +40660,7 @@ return {
         ["demand"] = "Medium"
     },
     ["lantern koi"] = {
-        ["value"] = 0,
+        ["value"] = 45000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40720,9 +40720,9 @@ return {
         ["demand"] = "Medium"
     },
     ["lunar new years basilisk"] = {
-        ["value"] = 100000,
+        ["value"] = 80000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "High"
+        ["demand"] = "Medium"
     },
     ["shiny lunar new years basilisk"] = {
         ["value"] = 0,
@@ -40745,7 +40745,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic night bloom"] = {
-        ["value"] = 250000,
+        ["value"] = 185000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40765,7 +40765,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny night bloom"] = {
-        ["value"] = 0,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40780,7 +40780,7 @@ return {
         ["demand"] = "Medium"
     },
     ["oceandeep bounty"] = {
-        ["value"] = 25000,
+        ["value"] = 17500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40805,7 +40805,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic fortuitous overlord"] = {
-        ["value"] = 40000,
+        ["value"] = 30000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40820,7 +40820,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny mythic fortuitous overlord"] = {
-        ["value"] = 160000,
+        ["value"] = 120000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40845,7 +40845,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic golden tokage"] = {
-        ["value"] = 50000,
+        ["value"] = 70000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -40855,12 +40855,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny golden tokage"] = {
-        ["value"] = 0,
+        ["value"] = 20000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny mythic golden tokage"] = {
-        ["value"] = 200000,
+        ["value"] = 240000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41040,7 +41040,7 @@ return {
         ["demand"] = "Medium"
     },
     ["chinese dragon"] = {
-        ["value"] = 800000,
+        ["value"] = 825000,
         ["apiRarity"] = "Secret",
         ["demand"] = "High"
     },
@@ -41055,7 +41055,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny chinese dragon"] = {
-        ["value"] = 0,
+        ["value"] = 1700000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41085,7 +41085,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic fortune star"] = {
-        ["value"] = 0,
+        ["value"] = 535000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41095,7 +41095,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny fortune star"] = {
-        ["value"] = 0,
+        ["value"] = 55000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41320,7 +41320,7 @@ return {
         ["demand"] = "Medium"
     },
     ["og easter spirit"] = {
-        ["value"] = 20000,
+        ["value"] = 12500,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41345,7 +41345,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny og easter spirit"] = {
-        ["value"] = 0,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41565,7 +41565,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic everlasting moonglow"] = {
-        ["value"] = 0,
+        ["value"] = 1000000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41575,7 +41575,7 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny everlasting moonglow"] = {
-        ["value"] = 0,
+        ["value"] = 200000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41700,14 +41700,14 @@ return {
         ["demand"] = "Medium"
     },
     ["world bubble"] = {
-        ["value"] = 400000,
+        ["value"] = 600000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic world bubble"] = {
-        ["value"] = 0,
+        ["value"] = 4000000,
         ["apiRarity"] = "Secret",
-        ["demand"] = "Medium"
+        ["demand"] = "High"
     },
     ["mythic xl world bubble"] = {
         ["value"] = 0,
@@ -41745,7 +41745,7 @@ return {
         ["demand"] = "Medium"
     },
     ["mythic moon goddess"] = {
-        ["value"] = 0,
+        ["value"] = 175000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41755,12 +41755,12 @@ return {
         ["demand"] = "Medium"
     },
     ["shiny moon goddess"] = {
-        ["value"] = 50000,
+        ["value"] = 40000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
     ["shiny mythic moon goddess"] = {
-        ["value"] = 0,
+        ["value"] = 500000,
         ["apiRarity"] = "Secret",
         ["demand"] = "Medium"
     },
@@ -41817,6 +41817,866 @@ return {
     ["xl rainbow dogcat"] = {
         ["value"] = 0,
         ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["xl ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["blossom dementor"] = {
+        ["value"] = 1700000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "High"
+    },
+    ["mythic blossom dementor"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "High"
+    },
+    ["mythic xl blossom dementor"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny blossom dementor"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic blossom dementor"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl blossom dementor"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl blossom dementor"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl blossom dementor"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl essence of life"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["xl fire ant"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["flower girl"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny flower girl"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl flower girl"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["xl flower girl"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["xl flower queen"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["foliar ascension"] = {
+        ["value"] = 30000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic foliar ascension"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl foliar ascension"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny foliar ascension"] = {
+        ["value"] = 80000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic foliar ascension"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl foliar ascension"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl foliar ascension"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl foliar ascension"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["grasshopper"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny grasshopper"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl grasshopper"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["xl grasshopper"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["ladybug"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["shiny ladybug"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl ladybug"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["xl ladybug"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl og almighty pumpkin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl og king doggy"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["pastel paladin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny pastel paladin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl pastel paladin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl pastel paladin"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["petal bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny petal bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl petal bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["xl petal bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Rare",
+        ["demand"] = "Medium"
+    },
+    ["petal kitty"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["shiny petal kitty"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl petal kitty"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["xl petal kitty"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Common",
+        ["demand"] = "Medium"
+    },
+    ["petal spirit"] = {
+        ["value"] = 4000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic petal spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl petal spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic petal spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl petal spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny petal spirit"] = {
+        ["value"] = 32000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl petal spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl petal spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl prismatic sunflower"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["queen butterfly"] = {
+        ["value"] = 200000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic queen butterfly"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl queen butterfly"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic queen butterfly"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl queen butterfly"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny queen butterfly"] = {
+        ["value"] = 450000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl queen butterfly"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl queen butterfly"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["sakura sentinel"] = {
+        ["value"] = 70000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny sakura sentinel"] = {
+        ["value"] = 480000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl sakura sentinel"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl sakura sentinel"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["xl spring bunny"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["xl spring critter"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl spring dragon"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["spring duality"] = {
+        ["value"] = 10000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic spring duality"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl spring duality"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic spring duality"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl spring duality"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny spring duality"] = {
+        ["value"] = 35000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl spring duality"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl spring duality"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["spring shard"] = {
+        ["value"] = 4000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic spring shard"] = {
+        ["value"] = 35000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl spring shard"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic spring shard"] = {
+        ["value"] = 120000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl spring shard"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny spring shard"] = {
+        ["value"] = 12000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl spring shard"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl spring shard"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["spring soul"] = {
+        ["value"] = 35000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic spring soul"] = {
+        ["value"] = 60000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl spring soul"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic spring soul"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl spring soul"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny spring soul"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl spring soul"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl spring soul"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["spring spirit"] = {
+        ["value"] = 15000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic spring spirit"] = {
+        ["value"] = 60000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["mythic xl spring spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic spring spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny mythic xl spring spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny spring spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["shiny xl spring spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["xl spring spirit"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["sun eater"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["sunmallow"] = {
+        ["value"] = 10000,
+        ["apiRarity"] = "Secret",
+        ["demand"] = "Medium"
+    },
+    ["sunshine"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
+        ["demand"] = "Medium"
+    },
+    ["windblume"] = {
+        ["value"] = 0,
+        ["apiRarity"] = "Legendary",
         ["demand"] = "Medium"
     }
 }
